@@ -1,0 +1,339 @@
+
+
+[2023-10-31 10:38:11] Client version: 1698262904
+[2023-10-31 10:38:11] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 10:38:11] Change number 0->20910285, apps: 0/0, packages: 0/0
+[2023-10-31 10:38:11] Requesting 1 apps, 85 packages (meta data, 1024 prev attempts, expected 4 KB)
+[2023-10-31 10:38:12] Downloaded 1 apps via HTTP, 13 KB (3 KB compressed)
+[2023-10-31 10:38:12] Requesting 0 apps, 85 packages (full data, 1024 prev attempts, expected 31 KB)
+[2023-10-31 10:38:13] UpdatesJob: finished OK, apps updated 1 (13 KB), packages updated 85 (27 KB)
+[2023-10-31 10:38:13] Requesting 357 apps, 0 packages (meta data, 1024 prev attempts, expected 16 KB)
+[2023-10-31 10:38:14] Requested 55 app access tokens, 52 received, 3 denied
+[2023-10-31 10:38:14] Updated SHAs with 52 new access tokens
+[2023-10-31 10:38:18] Downloaded 40 apps via HTTP, 2532 KB (689 KB compressed)
+[2023-10-31 10:38:18] Requesting 317 apps, 0 packages (full data, 1024 prev attempts, expected 744 KB)
+[2023-10-31 10:38:19] UpdatesJob: finished OK, apps updated 357 (3261 KB), packages updated 0 (0 KB)
+[2023-10-31 10:38:34] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)
+[2023-10-31 10:38:44] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 10:38:45] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:38:45] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 10:38:46] Updated SHAs with 1 new access tokens
+[2023-10-31 10:38:46] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 10:50:09] Client version: 1698262904
+[2023-10-31 10:50:09] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 10:50:09] Change number 20910285->20910431, apps: 0/128, packages: 0/5
+[2023-10-31 10:50:09] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:50:10] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 10:50:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 10:50:31] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 10:50:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:50:31] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 10:50:32] Updated SHAs with 1 new access tokens
+[2023-10-31 10:50:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 10:51:34] Client version: 1698262904
+[2023-10-31 10:51:34] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 10:51:34] Change number 20910431->20910435, apps: 0/4, packages: 0/0
+[2023-10-31 10:51:34] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:51:35] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 10:51:35] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 10:51:35] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 10:51:35] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:51:36] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 10:51:36] Updated SHAs with 1 new access tokens
+[2023-10-31 10:51:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 10:53:05] Client version: 1698262904
+[2023-10-31 10:53:05] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 10:53:05] Apps changed: 2191710=20910439,
+[2023-10-31 10:53:05] Change number 20910435->20910441, apps: 1/6, packages: 0/0
+[2023-10-31 10:53:05] Requesting 5 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:53:06] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 10:53:06] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 10:53:26] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 10:53:27] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:53:27] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 10:53:27] Updated SHAs with 1 new access tokens
+[2023-10-31 10:53:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 10:57:47] Client version: 1698262904
+[2023-10-31 10:57:47] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 10:57:48] Change number 20910441->20910461, apps: 0/21, packages: 0/0
+[2023-10-31 10:57:48] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:57:48] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 10:57:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 10:57:48] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 10:57:49] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 10:57:49] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 10:57:50] Updated SHAs with 1 new access tokens
+[2023-10-31 10:57:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:05:43] Client version: 1698262904
+[2023-10-31 11:05:43] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:05:43] Apps changed: 1493710=20910490,1874900=20910486,
+[2023-10-31 11:05:43] Change number 20910461->20910518, apps: 2/51, packages: 0/1
+[2023-10-31 11:05:43] Requesting 6 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:05:44] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:05:44] Requesting 2 apps, 0 packages (full data, 1024 prev attempts, expected 8 KB)
+[2023-10-31 11:05:44] UpdatesJob: finished OK, apps updated 2 (8 KB), packages updated 0 (0 KB)
+[2023-10-31 11:05:44] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:05:44] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:05:45] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:05:45] Updated SHAs with 1 new access tokens
+[2023-10-31 11:05:45] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:05:46] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)
+
+
+[2023-10-31 11:10:30] Client version: 1698262904
+[2023-10-31 11:10:30] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:10:31] Change number 20910518->20910589, apps: 0/64, packages: 0/5
+[2023-10-31 11:10:31] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:10:31] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:10:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:10:51] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:10:52] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:10:52] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:10:52] Updated SHAs with 1 new access tokens
+[2023-10-31 11:10:52] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:20:24] Client version: 1698262904
+[2023-10-31 11:20:24] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:20:25] Change number 20910589->20910688, apps: 0/67, packages: 0/17
+[2023-10-31 11:20:25] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:20:25] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:20:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:20:25] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:20:26] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:20:26] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:20:26] Updated SHAs with 1 new access tokens
+[2023-10-31 11:20:26] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:22:37] Client version: 1698262904
+[2023-10-31 11:22:37] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:22:38] Change number 20910688->20910708, apps: 0/14, packages: 0/1
+[2023-10-31 11:22:38] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:22:38] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:22:38] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:22:38] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:22:38] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:22:39] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:22:40] Updated SHAs with 1 new access tokens
+[2023-10-31 11:22:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:29:42] Client version: 1698262904
+[2023-10-31 11:29:42] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:29:42] Change number 20910708->20910754, apps: 0/39, packages: 0/4
+[2023-10-31 11:29:42] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:29:43] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:29:43] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:29:43] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:29:43] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:29:44] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:29:44] Updated SHAs with 1 new access tokens
+[2023-10-31 11:29:44] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:34:27] Client version: 1698262904
+[2023-10-31 11:34:27] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:34:27] Change number 20910754->20910800, apps: 0/39, packages: 0/6
+[2023-10-31 11:34:27] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:34:28] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:34:28] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:34:28] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:34:28] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:34:29] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:34:29] Updated SHAs with 1 new access tokens
+[2023-10-31 11:34:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:41:49] Client version: 1698262904
+[2023-10-31 11:41:49] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:41:49] Change number 20910800->20910875, apps: 0/48, packages: 0/7
+[2023-10-31 11:41:49] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:41:50] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:41:50] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:43:09] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:43:09] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:43:10] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:43:10] Updated SHAs with 1 new access tokens
+[2023-10-31 11:43:10] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:49:30] Client version: 1698262904
+[2023-10-31 11:49:30] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:49:30] Change number 20910875->20910932, apps: 0/45, packages: 0/4
+[2023-10-31 11:49:30] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:49:31] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:49:31] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:49:31] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:49:31] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:49:32] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:49:32] Updated SHAs with 1 new access tokens
+[2023-10-31 11:49:32] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:50:53] Client version: 1698262904
+[2023-10-31 11:50:53] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:50:53] Change number 20910932->20910942, apps: 0/10, packages: 0/0
+[2023-10-31 11:50:53] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:50:54] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:50:54] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:50:54] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:50:54] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:50:55] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:50:55] Updated SHAs with 1 new access tokens
+[2023-10-31 11:50:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:52:46] Client version: 1698262904
+[2023-10-31 11:52:46] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:52:46] Change number 20910942->20910950, apps: 0/5, packages: 0/2
+[2023-10-31 11:52:46] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:52:47] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:52:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:52:47] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:52:47] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:52:48] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:52:48] Updated SHAs with 1 new access tokens
+[2023-10-31 11:52:48] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 11:53:54] Client version: 1698262904
+[2023-10-31 11:53:54] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 11:53:54] Change number 20910950->20910963, apps: 0/8, packages: 0/7
+[2023-10-31 11:53:54] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:53:55] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 11:53:55] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 11:53:55] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 11:53:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 11:53:56] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 11:53:56] Updated SHAs with 1 new access tokens
+[2023-10-31 11:53:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 12:04:54] Client version: 1698262904
+[2023-10-31 12:04:54] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 12:04:54] Apps changed: 2191710=20911057,
+[2023-10-31 12:04:54] Change number 20910963->20911058, apps: 1/71, packages: 0/8
+[2023-10-31 12:04:54] Requesting 5 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:04:55] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 12:04:55] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 2 KB)
+[2023-10-31 12:04:55] UpdatesJob: finished OK, apps updated 1 (2 KB), packages updated 0 (0 KB)
+[2023-10-31 12:04:55] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 12:04:55] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:04:56] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 12:04:56] Updated SHAs with 1 new access tokens
+[2023-10-31 12:04:56] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 12:04:57] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)
+
+
+[2023-10-31 12:05:20] Client version: 1698262904
+[2023-10-31 12:05:20] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 12:05:20] Change number 20911058->20911060, apps: 0/2, packages: 0/0
+[2023-10-31 12:05:20] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:05:21] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 12:05:21] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 12:05:21] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 12:05:21] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:05:22] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 12:05:22] Updated SHAs with 1 new access tokens
+[2023-10-31 12:05:22] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-10-31 12:07:38] Client version: 1698262904
+[2023-10-31 12:07:38] RequestAppInfoUpdate: AppIDs 7
+[2023-10-31 12:07:38] Change number 20911060->20911111, apps: 0/48, packages: 0/2
+[2023-10-31 12:07:38] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:07:39] Requested 3 app access tokens, 0 received, 3 denied
+[2023-10-31 12:07:39] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-10-31 12:07:39] RequestAppInfoUpdate: AppIDs 2191710
+[2023-10-31 12:07:39] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-10-31 12:07:40] Requested 1 app access tokens, 1 received, 0 denied
+[2023-10-31 12:07:40] Updated SHAs with 1 new access tokens
+[2023-10-31 12:07:40] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-11-01 09:08:13] Client version: 1698778122
+[2023-11-01 09:08:13] RequestAppInfoUpdate: AppIDs 7
+[2023-11-01 09:08:13] Packages changed: force all
+[2023-11-01 09:08:13] Apps changed: force all
+[2023-11-01 09:08:13] Change number 20911111->20925816, apps: 0/0, packages: 0/0
+[2023-11-01 09:08:13] Requesting 358 apps, 85 packages (meta data, 1024 prev attempts, expected 20 KB)
+[2023-11-01 09:08:14] Requested 55 app access tokens, 52 received, 3 denied
+[2023-11-01 09:08:14] Updated SHAs with 52 new access tokens
+[2023-11-01 09:08:15] Downloaded 5 apps via HTTP, 133 KB (37 KB compressed)
+[2023-11-01 09:08:15] Requesting 10 apps, 0 packages (full data, 1024 prev attempts, expected 48 KB)
+[2023-11-01 09:08:15] UpdatesJob: finished OK, apps updated 15 (181 KB), packages updated 0 (0 KB)
+[2023-11-01 09:08:15] RequestAppInfoUpdate: AppIDs 2191710
+[2023-11-01 09:08:15] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 09:08:16] Requested 1 app access tokens, 1 received, 0 denied
+[2023-11-01 09:08:16] Updated SHAs with 1 new access tokens
+[2023-11-01 09:08:16] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-11-01 09:08:21] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)
+
+
+[2023-11-01 09:09:28] Client version: 1698778122
+[2023-11-01 09:09:28] RequestAppInfoUpdate: AppIDs 7
+[2023-11-01 09:09:28] Change number 20925816->20925820, apps: 0/4, packages: 0/0
+[2023-11-01 09:09:28] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 09:09:29] Requested 3 app access tokens, 0 received, 3 denied
+[2023-11-01 09:09:29] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-11-01 09:09:29] RequestAppInfoUpdate: AppIDs 2191710
+[2023-11-01 09:09:29] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 09:09:29] Requested 1 app access tokens, 1 received, 0 denied
+[2023-11-01 09:09:30] Updated SHAs with 1 new access tokens
+[2023-11-01 09:09:30] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-11-01 10:12:22] Client version: 1698778122
+[2023-11-01 10:12:22] RequestAppInfoUpdate: AppIDs 7
+[2023-11-01 10:12:22] Apps changed: 844870=20926292,
+[2023-11-01 10:12:22] Change number 20925820->20926386, apps: 1/372, packages: 0/29
+[2023-11-01 10:12:23] Requesting 5 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 10:12:24] Requested 3 app access tokens, 0 received, 3 denied
+[2023-11-01 10:12:24] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 6 KB)
+[2023-11-01 10:12:25] UpdatesJob: finished OK, apps updated 1 (6 KB), packages updated 0 (0 KB)
+[2023-11-01 10:12:40] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)
+[2023-11-01 10:12:46] RequestAppInfoUpdate: AppIDs 2191710
+[2023-11-01 10:12:46] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 10:12:47] Requested 1 app access tokens, 1 received, 0 denied
+[2023-11-01 10:12:47] Updated SHAs with 1 new access tokens
+[2023-11-01 10:12:47] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-11-01 10:20:23] Client version: 1698778122
+[2023-11-01 10:20:23] RequestAppInfoUpdate: AppIDs 7
+[2023-11-01 10:20:24] Change number 20926386->20926449, apps: 0/52, packages: 0/1
+[2023-11-01 10:20:24] Requesting 4 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 10:20:25] Requested 3 app access tokens, 0 received, 3 denied
+[2023-11-01 10:20:25] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-11-01 10:20:25] RequestAppInfoUpdate: AppIDs 2191710
+[2023-11-01 10:20:25] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 10:20:27] Requested 1 app access tokens, 1 received, 0 denied
+[2023-11-01 10:20:27] Updated SHAs with 1 new access tokens
+[2023-11-01 10:20:27] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+
+
+[2023-11-01 11:52:31] Client version: 1698778122
+[2023-11-01 11:52:31] RequestAppInfoUpdate: AppIDs 7
+[2023-11-01 11:52:32] Apps changed: 236110=20926769,
+[2023-11-01 11:52:32] Change number 20926449->20927188, apps: 1/498, packages: 0/64
+[2023-11-01 11:52:32] Requesting 5 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 11:52:34] Requested 3 app access tokens, 0 received, 3 denied
+[2023-11-01 11:52:34] Requesting 1 apps, 0 packages (full data, 1024 prev attempts, expected 6 KB)
+[2023-11-01 11:52:34] UpdatesJob: finished OK, apps updated 1 (6 KB), packages updated 0 (0 KB)
+[2023-11-01 11:52:34] RequestAppInfoUpdate: AppIDs 2191710
+[2023-11-01 11:52:34] Requesting 1 apps, 0 packages (meta data, 1024 prev attempts, expected 0 KB)
+[2023-11-01 11:52:35] Requested 1 app access tokens, 1 received, 0 denied
+[2023-11-01 11:52:36] Updated SHAs with 1 new access tokens
+[2023-11-01 11:52:36] UpdatesJob: finished OK, apps updated 0 (0 KB), packages updated 0 (0 KB)
+[2023-11-01 11:52:49] Starting async write D:\SteamMOD\ModPackage/appcache/appinfo.vdf (2348 KB)

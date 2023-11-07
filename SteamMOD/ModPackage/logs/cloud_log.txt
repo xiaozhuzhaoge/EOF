@@ -1,0 +1,723 @@
+
+
+[2023-10-31 10:38:10] Client version: 1698262904
+[2023-10-31 10:38:10] [AppID 7] Starting sync (init,)
+[2023-10-31 10:38:10] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:38:10] [AppID 7] Not running AutoCloud. No config data found
+[2023-10-31 10:38:10] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:38:10] [AppID 7] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:38:19] [AppID 7] Starting sync (down,)
+[2023-10-31 10:38:19] [AppID 7] Attempting to sync from local change number '0' to global change number '11980052603109117111'
+[2023-10-31 10:38:19] [AppID 7] Need to download file serverbrowser_hist.vdf
+[2023-10-31 10:38:19] [AppID 7] Need to download file sharedconfig.vdf
+[2023-10-31 10:38:20] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-hkg.oss-accelerate.aliyuncs.com', path /F4/D9/AE/10/7/018_D_13D55723_46227_118.dat?OSSAccessKeyId=LTAI4GGKSrY9rm6UigoBmqjd&Expires=1698723501&Signature=6ITGzaDnHD7GBRIM2TvPsOwdUb8%3D, beginning. . .
+[2023-10-31 10:38:20] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-tokyo.storage.googleapis.com', path /F4/D9/AE/10/7/011_B_14F6A239_ECA9A_831.dat?GoogleAccessId=519723424899-j6o48knii6crh59hb86rnun8sbl7ph2a@developer.gserviceaccount.com&Expires=1698723501&Signature=C3tO%2F9pSYFFVNDLJHb5K6%2Fi4W8m972yl5b2gjJZvcqtHuxiVXVXtdUyqZDEjUF%2FrvbeVrrsYI9GoVx0Grqj5HRGJvGZoxhQczJDZhLDiqDOC1oTjjL167oDokugi%2Fj9mSF7oeBQVzSo%2FWAH%2FRDF1cMY8%2FrsOxNoCznHSaZ%2B4RBw%3D, beginning. . .
+[2023-10-31 10:38:22] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-hkg.oss-accelerate.aliyuncs.com' - Success.
+[2023-10-31 10:38:22] [AppID 7] Download OK for file sharedconfig.vdf
+[2023-10-31 10:38:24] [AppID 7] HTTP download for file 'serverbrowser_hist.vdf' from host 'steamcloud-tokyo.storage.googleapis.com' - Success.
+[2023-10-31 10:38:24] [AppID 7] Download OK for file serverbrowser_hist.vdf
+[2023-10-31 10:38:24] [AppID 7] Download complete, result OK
+[2023-10-31 10:38:24] [AppID 7] Successfully synced to ChangeNumber 11980052603109117111
+[2023-10-31 10:38:24] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 10:38:24] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:39:44] Client version: 1698262904
+[2023-10-31 10:39:44] [AppID 7] Starting sync (init,)
+[2023-10-31 10:39:44] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:39:44] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:39:44] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:40:16] [AppID 7] Starting sync (init,)
+[2023-10-31 10:40:16] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:40:16] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:40:16] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:41:32] Client version: 1698262904
+[2023-10-31 10:41:32] [AppID 7] Starting sync (init,)
+[2023-10-31 10:41:32] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:41:32] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:41:32] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:44:36] Client version: 1698262904
+[2023-10-31 10:44:36] [AppID 7] Starting sync (init,)
+[2023-10-31 10:44:36] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:44:36] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:44:37] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:46:51] [AppID 7] Starting sync (init,)
+[2023-10-31 10:46:51] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:46:51] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:46:51] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:49:46] Client version: 1698262904
+[2023-10-31 10:49:46] [AppID 7] Starting sync (init,)
+[2023-10-31 10:49:46] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:49:46] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:49:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:50:03] [AppID 7] Starting sync (init,)
+[2023-10-31 10:50:03] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:50:03] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:50:03] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:50:08] [AppID 7] Starting sync (init,)
+[2023-10-31 10:50:08] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:50:08] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:50:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:50:09] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 10:50:09] [AppID 7] Starting sync (eval,)
+[2023-10-31 10:50:09] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:50:09] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:50:09] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 10:50:09] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 10:50:09] [AppID 7] Eval complete
+[2023-10-31 10:50:09] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 10:50:09] [AppID 7] Starting sync (down,)
+[2023-10-31 10:50:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:50:09] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:50:09] [AppID 7] Download complete in build list
+[2023-10-31 10:50:09] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 10:50:09] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 10:50:10] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:51:29] Client version: 1698262904
+[2023-10-31 10:51:29] [AppID 7] Starting sync (init,)
+[2023-10-31 10:51:29] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:51:29] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:51:29] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:51:33] [AppID 7] Starting sync (init,)
+[2023-10-31 10:51:33] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:51:33] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:51:33] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:51:34] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 10:51:34] [AppID 7] Starting sync (eval,)
+[2023-10-31 10:51:34] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:51:34] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:51:34] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 10:51:34] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 10:51:34] [AppID 7] Eval complete
+[2023-10-31 10:51:34] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 10:51:34] [AppID 7] Starting sync (down,)
+[2023-10-31 10:51:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:51:34] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:51:34] [AppID 7] Download complete in build list
+[2023-10-31 10:51:34] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 10:51:34] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 10:51:34] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:52:45] Client version: 1698262904
+[2023-10-31 10:52:45] [AppID 7] Starting sync (init,)
+[2023-10-31 10:52:45] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:52:45] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:52:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:53:01] [AppID 7] Starting sync (init,)
+[2023-10-31 10:53:01] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:53:01] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:53:01] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:53:05] [AppID 7] Starting sync (init,)
+[2023-10-31 10:53:05] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:53:05] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:53:05] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:53:05] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 10:53:05] [AppID 7] Starting sync (eval,)
+[2023-10-31 10:53:05] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:53:05] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:53:05] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 10:53:05] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 10:53:05] [AppID 7] Eval complete
+[2023-10-31 10:53:05] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 10:53:05] [AppID 7] Starting sync (down,)
+[2023-10-31 10:53:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:53:06] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:53:06] [AppID 7] Download complete in build list
+[2023-10-31 10:53:06] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 10:53:06] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 10:53:06] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 10:57:43] Client version: 1698262904
+[2023-10-31 10:57:43] [AppID 7] Starting sync (init,)
+[2023-10-31 10:57:43] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:57:43] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:57:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:57:47] [AppID 7] Starting sync (init,)
+[2023-10-31 10:57:47] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:57:47] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 10:57:47] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:57:47] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 10:57:47] [AppID 7] Starting sync (eval,)
+[2023-10-31 10:57:47] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 10:57:48] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:57:48] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 10:57:48] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 10:57:48] [AppID 7] Eval complete
+[2023-10-31 10:57:48] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 10:57:48] [AppID 7] Starting sync (down,)
+[2023-10-31 10:57:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 10:57:48] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 10:57:48] [AppID 7] Download complete in build list
+[2023-10-31 10:57:48] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 10:57:48] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 10:57:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:05:38] Client version: 1698262904
+[2023-10-31 11:05:38] [AppID 7] Starting sync (init,)
+[2023-10-31 11:05:38] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:05:38] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:05:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:05:42] [AppID 7] Starting sync (init,)
+[2023-10-31 11:05:42] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:05:42] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:05:42] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:05:43] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:05:43] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:05:43] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:05:43] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:05:43] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:05:43] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:05:43] [AppID 7] Eval complete
+[2023-10-31 11:05:43] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:05:43] [AppID 7] Starting sync (down,)
+[2023-10-31 11:05:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:05:44] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:05:44] [AppID 7] Download complete in build list
+[2023-10-31 11:05:44] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:05:44] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:05:44] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:10:09] Client version: 1698262904
+[2023-10-31 11:10:09] [AppID 7] Starting sync (init,)
+[2023-10-31 11:10:09] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:10:09] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:10:09] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:10:26] [AppID 7] Starting sync (init,)
+[2023-10-31 11:10:26] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:10:26] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:10:26] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:10:30] [AppID 7] Starting sync (init,)
+[2023-10-31 11:10:30] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:10:30] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:10:30] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:10:30] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:10:30] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:10:30] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:10:31] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:10:31] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:10:31] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:10:31] [AppID 7] Eval complete
+[2023-10-31 11:10:31] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:10:31] [AppID 7] Starting sync (down,)
+[2023-10-31 11:10:31] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:10:31] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:10:31] [AppID 7] Download complete in build list
+[2023-10-31 11:10:31] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:10:31] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:10:31] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:20:20] Client version: 1698262904
+[2023-10-31 11:20:20] [AppID 7] Starting sync (init,)
+[2023-10-31 11:20:20] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:20:20] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:20:20] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:20:24] [AppID 7] Starting sync (init,)
+[2023-10-31 11:20:24] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:20:24] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:20:24] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:20:24] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:20:24] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:20:24] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:20:25] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:20:25] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:20:25] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:20:25] [AppID 7] Eval complete
+[2023-10-31 11:20:25] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:20:25] [AppID 7] Starting sync (down,)
+[2023-10-31 11:20:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:20:25] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:20:25] [AppID 7] Download complete in build list
+[2023-10-31 11:20:25] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:20:25] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:20:25] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:22:32] Client version: 1698262904
+[2023-10-31 11:22:32] [AppID 7] Starting sync (init,)
+[2023-10-31 11:22:32] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:22:32] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:22:33] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:22:37] [AppID 7] Starting sync (init,)
+[2023-10-31 11:22:37] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:22:37] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:22:37] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:22:37] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:22:37] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:22:37] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:22:38] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:22:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:22:38] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:22:38] [AppID 7] Eval complete
+[2023-10-31 11:22:38] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:22:38] [AppID 7] Starting sync (down,)
+[2023-10-31 11:22:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:22:38] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:22:38] [AppID 7] Download complete in build list
+[2023-10-31 11:22:38] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:22:38] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:22:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:29:37] Client version: 1698262904
+[2023-10-31 11:29:37] [AppID 7] Starting sync (init,)
+[2023-10-31 11:29:37] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:29:37] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:29:37] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:29:42] [AppID 7] Starting sync (init,)
+[2023-10-31 11:29:42] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:29:42] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:29:42] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:29:42] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:29:42] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:29:42] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:29:42] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:29:42] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:29:42] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:29:42] [AppID 7] Eval complete
+[2023-10-31 11:29:42] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:29:42] [AppID 7] Starting sync (down,)
+[2023-10-31 11:29:42] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:29:43] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:29:43] [AppID 7] Download complete in build list
+[2023-10-31 11:29:43] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:29:43] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:29:43] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:34:22] Client version: 1698262904
+[2023-10-31 11:34:22] [AppID 7] Starting sync (init,)
+[2023-10-31 11:34:22] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:34:22] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:34:22] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:34:26] [AppID 7] Starting sync (init,)
+[2023-10-31 11:34:26] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:34:26] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:34:26] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:34:27] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:34:27] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:34:27] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:34:27] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:34:27] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:34:27] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:34:27] [AppID 7] Eval complete
+[2023-10-31 11:34:27] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:34:27] [AppID 7] Starting sync (down,)
+[2023-10-31 11:34:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:34:27] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:34:27] [AppID 7] Download complete in build list
+[2023-10-31 11:34:27] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:34:27] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:34:28] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:41:12] Client version: 1698262904
+[2023-10-31 11:41:12] [AppID 7] Starting sync (init,)
+[2023-10-31 11:41:12] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:41:12] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:41:12] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:41:41] [AppID 7] Starting sync (init,)
+[2023-10-31 11:41:41] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:41:41] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:41:41] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:41:48] [AppID 7] Starting sync (init,)
+[2023-10-31 11:41:48] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:41:48] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:41:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:41:49] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:41:49] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:41:49] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:41:49] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:41:49] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:41:49] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:41:49] [AppID 7] Eval complete
+[2023-10-31 11:41:49] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:41:49] [AppID 7] Starting sync (down,)
+[2023-10-31 11:41:49] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:41:50] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:41:50] [AppID 7] Download complete in build list
+[2023-10-31 11:41:50] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:41:50] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:41:50] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:42:50] [Roaming Config] PerformSyncCloud - all sync'd up
+
+
+[2023-10-31 11:49:23] Client version: 1698262904
+[2023-10-31 11:49:23] [AppID 7] Starting sync (init,)
+[2023-10-31 11:49:23] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:49:23] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:49:23] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:49:30] [AppID 7] Starting sync (init,)
+[2023-10-31 11:49:30] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:49:30] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:49:30] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:49:30] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:49:30] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:49:30] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:49:30] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:49:30] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:49:30] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:49:30] [AppID 7] Eval complete
+[2023-10-31 11:49:30] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:49:30] [AppID 7] Starting sync (down,)
+[2023-10-31 11:49:30] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:49:31] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:49:31] [AppID 7] Download complete in build list
+[2023-10-31 11:49:31] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:49:31] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:49:31] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:50:48] Client version: 1698262904
+[2023-10-31 11:50:48] [AppID 7] Starting sync (init,)
+[2023-10-31 11:50:48] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:50:48] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:50:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:50:52] [AppID 7] Starting sync (init,)
+[2023-10-31 11:50:52] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:50:52] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:50:52] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:50:53] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:50:53] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:50:53] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:50:53] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:50:53] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:50:53] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:50:53] [AppID 7] Eval complete
+[2023-10-31 11:50:53] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:50:53] [AppID 7] Starting sync (down,)
+[2023-10-31 11:50:53] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:50:54] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:50:54] [AppID 7] Download complete in build list
+[2023-10-31 11:50:54] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:50:54] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:50:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:52:40] Client version: 1698262904
+[2023-10-31 11:52:40] [AppID 7] Starting sync (init,)
+[2023-10-31 11:52:40] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:52:40] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:52:40] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:52:45] [AppID 7] Starting sync (init,)
+[2023-10-31 11:52:45] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:52:45] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:52:45] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:52:46] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:52:46] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:52:46] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:52:46] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:52:46] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:52:46] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:52:46] [AppID 7] Eval complete
+[2023-10-31 11:52:46] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:52:46] [AppID 7] Starting sync (down,)
+[2023-10-31 11:52:46] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:52:47] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:52:47] [AppID 7] Download complete in build list
+[2023-10-31 11:52:47] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:52:47] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:52:47] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 11:53:48] Client version: 1698262904
+[2023-10-31 11:53:48] [AppID 7] Starting sync (init,)
+[2023-10-31 11:53:48] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:53:48] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:53:48] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:53:54] [AppID 7] Starting sync (init,)
+[2023-10-31 11:53:54] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:53:54] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 11:53:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:53:54] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 11:53:54] [AppID 7] Starting sync (eval,)
+[2023-10-31 11:53:54] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 11:53:54] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:53:54] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 11:53:54] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 11:53:54] [AppID 7] Eval complete
+[2023-10-31 11:53:54] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 11:53:54] [AppID 7] Starting sync (down,)
+[2023-10-31 11:53:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 11:53:55] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 11:53:55] [AppID 7] Download complete in build list
+[2023-10-31 11:53:55] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 11:53:55] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 11:53:55] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 12:04:47] Client version: 1698262904
+[2023-10-31 12:04:47] [AppID 7] Starting sync (init,)
+[2023-10-31 12:04:47] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:04:47] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:04:47] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:04:53] [AppID 7] Starting sync (init,)
+[2023-10-31 12:04:53] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:04:53] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:04:53] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:04:54] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 12:04:54] [AppID 7] Starting sync (eval,)
+[2023-10-31 12:04:54] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:04:54] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:04:54] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 12:04:54] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 12:04:54] [AppID 7] Eval complete
+[2023-10-31 12:04:54] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 12:04:54] [AppID 7] Starting sync (down,)
+[2023-10-31 12:04:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:04:54] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:04:54] [AppID 7] Download complete in build list
+[2023-10-31 12:04:54] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 12:04:54] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 12:04:54] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-10-31 12:05:14] Client version: 1698262904
+[2023-10-31 12:05:14] [AppID 7] Starting sync (init,)
+[2023-10-31 12:05:14] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:05:14] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:05:14] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:05:20] [AppID 7] Starting sync (init,)
+[2023-10-31 12:05:20] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:05:20] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:05:20] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:05:20] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 12:05:20] [AppID 7] Starting sync (eval,)
+[2023-10-31 12:05:20] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:05:20] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:05:20] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 12:05:20] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 12:05:20] [AppID 7] Eval complete
+[2023-10-31 12:05:20] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 12:05:20] [AppID 7] Starting sync (down,)
+[2023-10-31 12:05:20] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:05:21] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:05:21] [AppID 7] Download complete in build list
+[2023-10-31 12:05:21] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 12:05:21] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 12:05:21] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:05:27] [AppID 2191710] Starting sync (init,)
+[2023-10-31 12:05:27] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-10-31 12:05:27] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-10-31 12:05:27] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-10-31 12:05:28] [AppID 2191710] HTTP upload for UGC file 'previewfile_3067113224.png' beginning . . .
+[2023-10-31 12:05:29] [AppID 2191710] HTTP upload for UGC file 'previewfile_3067113224.png' (length=57462) to (142.251.43.27 / 127.0.0.1, host: steamcloud-ugc.storage.googleapis.com), path /F4/D9/AE/10/2191710/077_1_2361E6B8_6014C_1.dat?GoogleAccessId=1034790105812-5bdngop952i7sjvk3q8dm3nur4tlg4vb@developer.gserviceaccount.com&Expires=1698728728&Signature=no%2B9FwGOPjsu8RWKUvdh4mxICbAbBmHEW3GdeTSfxBl4D6CX3G2L4u5diuiWqzlXTsGKpK4OtvNBz1ez8oV2XqOsiZWCgeqDuh9CilTseyAh4qK5HAD%2FxkVujYlZPdAHJKP1sdYKV7Eo0fmSbrR5S2835RDwyjHCqcKK%2BAnH5lI%3D - success.
+[2023-10-31 12:05:29] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+
+
+[2023-10-31 12:07:33] Client version: 1698262904
+[2023-10-31 12:07:33] [AppID 7] Starting sync (init,)
+[2023-10-31 12:07:33] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:07:33] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:07:33] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:07:38] [AppID 7] Starting sync (init,)
+[2023-10-31 12:07:38] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:07:38] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-10-31 12:07:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:07:38] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-10-31 12:07:38] [AppID 7] Starting sync (eval,)
+[2023-10-31 12:07:38] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-10-31 12:07:38] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:07:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-10-31 12:07:38] [AppID 7] File is in sync sharedconfig.vdf
+[2023-10-31 12:07:38] [AppID 7] Eval complete
+[2023-10-31 12:07:38] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-10-31 12:07:38] [AppID 7] Starting sync (down,)
+[2023-10-31 12:07:38] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:07:39] [AppID 7] Currently already synced to global change number '11980052603109117111', should be nothing to download
+[2023-10-31 12:07:39] [AppID 7] Download complete in build list
+[2023-10-31 12:07:39] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-10-31 12:07:39] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-10-31 12:07:39] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-10-31 12:08:02] [AppID 2191710] Starting sync (init,)
+[2023-10-31 12:08:02] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-10-31 12:08:02] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-10-31 12:08:02] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-10-31 12:08:02] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+
+
+[2023-11-01 09:08:08] Client version: 1698778122
+[2023-11-01 09:08:08] [AppID 7] Starting sync (init,)
+[2023-11-01 09:08:08] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:08:08] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 09:08:08] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:08:13] [AppID 7] Starting sync (init,)
+[2023-11-01 09:08:13] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:08:13] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 09:08:13] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:08:13] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-11-01 09:08:13] [AppID 7] Starting sync (eval,)
+[2023-11-01 09:08:13] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:08:13] [AppID 7] Need to sync from local change number '11980052603109117111' to global change number '11082856928353633481', but not attempting now
+[2023-11-01 09:08:13] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-11-01 09:08:13] [AppID 7] Need to download file sharedconfig.vdf
+[2023-11-01 09:08:13] [AppID 7] Eval complete
+[2023-11-01 09:08:13] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-11-01 09:08:13] [AppID 7] Starting sync (down,)
+[2023-11-01 09:08:13] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:08:14] [AppID 7] Attempting to sync from local change number '11980052603109117111' to global change number '11082856928353633481'
+[2023-11-01 09:08:14] [AppID 7] Need to download file sharedconfig.vdf
+[2023-11-01 09:08:14] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-tokyo.storage.googleapis.com', path /F4/D9/AE/10/7/018_D_13D55723_46227_119.dat?GoogleAccessId=519723424899-j6o48knii6crh59hb86rnun8sbl7ph2a@developer.gserviceaccount.com&Expires=1698804495&Signature=tXDbZxd3Ri1M%2FbEEclPXh7k7OMgVQ6jWFlsF9JOP0f2KsHykU7L%2F1zTA1oWlO35zmWoQeAI%2Bmi%2Bc0MTq1o4lnMskj%2F76XD70ObJUI8VRNkrtePyVnMiPo9RdzUWieMTkSJPK6uCDh6cb%2FODjGRjHWyUYrQks8NGnBeW%2FrqMNKVY%3D, beginning. . .
+[2023-11-01 09:08:15] [AppID 7] HTTP download for file 'sharedconfig.vdf' from host 'steamcloud-tokyo.storage.googleapis.com' - Success.
+[2023-11-01 09:08:15] [AppID 7] Download OK for file sharedconfig.vdf
+[2023-11-01 09:08:15] [AppID 7] Download complete, result OK
+[2023-11-01 09:08:15] [AppID 7] Successfully synced to ChangeNumber 11082856928353633481
+[2023-11-01 09:08:15] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-11-01 09:08:15] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:08:21] [AppID 2191710] Starting sync (init,)
+[2023-11-01 09:08:21] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-11-01 09:08:21] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-11-01 09:08:21] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-11-01 09:08:21] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+
+
+[2023-11-01 09:09:23] Client version: 1698778122
+[2023-11-01 09:09:23] [AppID 7] Starting sync (init,)
+[2023-11-01 09:09:23] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:09:23] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 09:09:23] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:09:27] [AppID 7] Starting sync (init,)
+[2023-11-01 09:09:27] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:09:27] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 09:09:27] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:09:28] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-11-01 09:09:28] [AppID 7] Starting sync (eval,)
+[2023-11-01 09:09:28] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 09:09:28] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 09:09:28] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-11-01 09:09:28] [AppID 7] File is in sync sharedconfig.vdf
+[2023-11-01 09:09:28] [AppID 7] Eval complete
+[2023-11-01 09:09:28] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-11-01 09:09:28] [AppID 7] Starting sync (down,)
+[2023-11-01 09:09:28] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:09:28] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 09:09:28] [AppID 7] Download complete in build list
+[2023-11-01 09:09:28] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-11-01 09:09:28] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-11-01 09:09:28] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 09:09:34] [AppID 2191710] Starting sync (init,)
+[2023-11-01 09:09:34] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-11-01 09:09:34] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-11-01 09:09:34] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-11-01 09:09:34] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+[2023-11-01 09:10:28] [Roaming Config] PerformSyncCloud - all sync'd up
+
+
+[2023-11-01 10:10:56] Client version: 1698778122
+[2023-11-01 10:10:56] [AppID 7] Starting sync (init,)
+[2023-11-01 10:10:56] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:10:56] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:10:56] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:11:29] [AppID 7] Starting sync (init,)
+[2023-11-01 10:11:29] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:11:29] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:11:29] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+
+
+[2023-11-01 10:11:58] Client version: 1698778122
+[2023-11-01 10:11:58] [AppID 7] Starting sync (init,)
+[2023-11-01 10:11:58] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:11:58] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:11:58] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:12:12] [AppID 7] Starting sync (init,)
+[2023-11-01 10:12:12] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:12:12] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:12:12] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:12:21] [AppID 7] Starting sync (init,)
+[2023-11-01 10:12:21] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:12:21] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:12:21] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:12:22] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-11-01 10:12:22] [AppID 7] Starting sync (eval,)
+[2023-11-01 10:12:22] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:12:22] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 10:12:22] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-11-01 10:12:22] [AppID 7] File is in sync sharedconfig.vdf
+[2023-11-01 10:12:22] [AppID 7] Eval complete
+[2023-11-01 10:12:22] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-11-01 10:12:23] [AppID 7] Starting sync (down,)
+[2023-11-01 10:12:23] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:12:24] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 10:12:24] [AppID 7] Download complete in build list
+[2023-11-01 10:12:24] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-11-01 10:12:24] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-11-01 10:12:24] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:12:55] [AppID 2191710] Starting sync (init,)
+[2023-11-01 10:12:55] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-11-01 10:12:55] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-11-01 10:12:55] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-11-01 10:12:56] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+
+
+[2023-11-01 10:20:15] Client version: 1698778122
+[2023-11-01 10:20:15] [AppID 7] Starting sync (init,)
+[2023-11-01 10:20:15] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:20:15] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:20:15] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:20:23] [AppID 7] Starting sync (init,)
+[2023-11-01 10:20:23] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:20:23] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 10:20:23] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:20:23] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-11-01 10:20:23] [AppID 7] Starting sync (eval,)
+[2023-11-01 10:20:23] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 10:20:24] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 10:20:24] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-11-01 10:20:24] [AppID 7] File is in sync sharedconfig.vdf
+[2023-11-01 10:20:24] [AppID 7] Eval complete
+[2023-11-01 10:20:24] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-11-01 10:20:24] [AppID 7] Starting sync (down,)
+[2023-11-01 10:20:24] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:20:24] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 10:20:24] [AppID 7] Download complete in build list
+[2023-11-01 10:20:24] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-11-01 10:20:24] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-11-01 10:20:24] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 10:20:33] [AppID 2191710] Starting sync (init,)
+[2023-11-01 10:20:33] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-11-01 10:20:33] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-11-01 10:20:33] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-11-01 10:20:34] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
+
+
+[2023-11-01 11:52:22] Client version: 1698778122
+[2023-11-01 11:52:22] [AppID 7] Starting sync (init,)
+[2023-11-01 11:52:22] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 11:52:22] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 11:52:22] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 11:52:31] [AppID 7] Starting sync (init,)
+[2023-11-01 11:52:31] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 11:52:31] [U:1:279894516] [AppID 7] Init cache request complete
+[2023-11-01 11:52:31] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 11:52:31] [Roaming Config] PerformSyncCloud - evaluating sync state
+[2023-11-01 11:52:31] [AppID 7] Starting sync (eval,)
+[2023-11-01 11:52:31] [AppID 7] AutoCloud checking local state for user 279894516
+[2023-11-01 11:52:32] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 11:52:32] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2023-11-01 11:52:32] [AppID 7] File is in sync sharedconfig.vdf
+[2023-11-01 11:52:32] [AppID 7] Eval complete
+[2023-11-01 11:52:32] [Roaming Config] OnRemoteStorageStateEvaluated - result OK
+[2023-11-01 11:52:32] [AppID 7] Starting sync (down,)
+[2023-11-01 11:52:32] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 11:52:33] [AppID 7] Currently already synced to global change number '11082856928353633481', should be nothing to download
+[2023-11-01 11:52:33] [AppID 7] Download complete in build list
+[2023-11-01 11:52:33] [AppID 7] Successfully synced to ChangeNumber 0
+[2023-11-01 11:52:33] [Roaming Config] OnRemoteStorageSyncedClient() - result OK
+[2023-11-01 11:52:33] [AppID 7] YldWriteCacheDirectoryToFile - saved to 'D:\SteamMOD\ModPackage/userdata/279894516/7/remotecache.vdf'
+[2023-11-01 11:52:57] [AppID 2191710] Starting sync (init,)
+[2023-11-01 11:52:57] [AppID 2191710] AutoCloud checking local state for user 279894516
+[2023-11-01 11:52:57] [U:1:279894516] [AppID 2191710] Init cache request complete
+[2023-11-01 11:52:57] [AppID 2191710] YldWriteCacheDirectoryToFile - empty vector, deleting 'D:\SteamMOD\ModPackage/userdata/279894516/2191710/remotecache.vdf'
+[2023-11-01 11:52:57] [AppID 2191710] UGC Upload OK for file previewfile_3067113224.png
