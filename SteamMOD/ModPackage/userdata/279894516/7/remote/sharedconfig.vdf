@@ -1,0 +1,38 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SurveyDate"		"2023-01-12"
+				"SurveyDateVersion"		"7842912017109627360"
+				"StartMenuShortcutCheck"		"1"
+				"DesktopShortcutCheck"		"1"
+				"apps"
+				{
+					"1860860"
+					{
+						"hidden"		"1"
+					}
+					"2191710"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+				}
+			}
+		}
+	}
+	"JSClientStorage"
+	{
+		"spotlight.review.2191710"
+		{
+			"rgPromptDismissals"		"2"
+			"bWasAskedToRevise"		"0"
+		}
+	}
+}

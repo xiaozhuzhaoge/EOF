@@ -1,0 +1,235 @@
+
+
+[2023-10-31 10:38:11] Client version: 1698262904
+[2023-10-31 10:38:11] Failed to get ParentalSettings\Settings from config file for account ID 279894516
+[2023-10-31 10:38:11] Got parental settings for account ID 279894516
+
+
+[2023-10-31 10:50:09] Client version: 1698262904
+[2023-10-31 10:50:09] Validating parental settings
+[2023-10-31 10:50:09] Settings dump:
+[2023-10-31 10:50:09] 	Account ID: 279894516
+[2023-10-31 10:50:09] 	Enabled: false
+[2023-10-31 10:50:09] 	Base list: 0 ()
+[2023-10-31 10:50:09] 	No custom list
+[2023-10-31 10:50:09] 	No enabled features
+
+
+[2023-10-31 10:51:33] Client version: 1698262904
+[2023-10-31 10:51:33] Validating parental settings
+[2023-10-31 10:51:33] Settings dump:
+[2023-10-31 10:51:33] 	Account ID: 279894516
+[2023-10-31 10:51:33] 	Enabled: false
+[2023-10-31 10:51:33] 	Base list: 0 ()
+[2023-10-31 10:51:33] 	No custom list
+[2023-10-31 10:51:33] 	No enabled features
+
+
+[2023-10-31 10:53:05] Client version: 1698262904
+[2023-10-31 10:53:05] Validating parental settings
+[2023-10-31 10:53:05] Settings dump:
+[2023-10-31 10:53:05] 	Account ID: 279894516
+[2023-10-31 10:53:05] 	Enabled: false
+[2023-10-31 10:53:05] 	Base list: 0 ()
+[2023-10-31 10:53:05] 	No custom list
+[2023-10-31 10:53:05] 	No enabled features
+
+
+[2023-10-31 10:57:47] Client version: 1698262904
+[2023-10-31 10:57:47] Validating parental settings
+[2023-10-31 10:57:47] Settings dump:
+[2023-10-31 10:57:47] 	Account ID: 279894516
+[2023-10-31 10:57:47] 	Enabled: false
+[2023-10-31 10:57:47] 	Base list: 0 ()
+[2023-10-31 10:57:47] 	No custom list
+[2023-10-31 10:57:47] 	No enabled features
+
+
+[2023-10-31 11:05:43] Client version: 1698262904
+[2023-10-31 11:05:43] Validating parental settings
+[2023-10-31 11:05:43] Settings dump:
+[2023-10-31 11:05:43] 	Account ID: 279894516
+[2023-10-31 11:05:43] 	Enabled: false
+[2023-10-31 11:05:43] 	Base list: 0 ()
+[2023-10-31 11:05:43] 	No custom list
+[2023-10-31 11:05:43] 	No enabled features
+
+
+[2023-10-31 11:10:30] Client version: 1698262904
+[2023-10-31 11:10:30] Validating parental settings
+[2023-10-31 11:10:30] Settings dump:
+[2023-10-31 11:10:30] 	Account ID: 279894516
+[2023-10-31 11:10:30] 	Enabled: false
+[2023-10-31 11:10:30] 	Base list: 0 ()
+[2023-10-31 11:10:30] 	No custom list
+[2023-10-31 11:10:30] 	No enabled features
+
+
+[2023-10-31 11:20:24] Client version: 1698262904
+[2023-10-31 11:20:24] Validating parental settings
+[2023-10-31 11:20:24] Settings dump:
+[2023-10-31 11:20:24] 	Account ID: 279894516
+[2023-10-31 11:20:24] 	Enabled: false
+[2023-10-31 11:20:24] 	Base list: 0 ()
+[2023-10-31 11:20:24] 	No custom list
+[2023-10-31 11:20:24] 	No enabled features
+
+
+[2023-10-31 11:22:37] Client version: 1698262904
+[2023-10-31 11:22:37] Validating parental settings
+[2023-10-31 11:22:37] Settings dump:
+[2023-10-31 11:22:37] 	Account ID: 279894516
+[2023-10-31 11:22:37] 	Enabled: false
+[2023-10-31 11:22:37] 	Base list: 0 ()
+[2023-10-31 11:22:37] 	No custom list
+[2023-10-31 11:22:37] 	No enabled features
+
+
+[2023-10-31 11:29:42] Client version: 1698262904
+[2023-10-31 11:29:42] Validating parental settings
+[2023-10-31 11:29:42] Settings dump:
+[2023-10-31 11:29:42] 	Account ID: 279894516
+[2023-10-31 11:29:42] 	Enabled: false
+[2023-10-31 11:29:42] 	Base list: 0 ()
+[2023-10-31 11:29:42] 	No custom list
+[2023-10-31 11:29:42] 	No enabled features
+
+
+[2023-10-31 11:34:27] Client version: 1698262904
+[2023-10-31 11:34:27] Validating parental settings
+[2023-10-31 11:34:27] Settings dump:
+[2023-10-31 11:34:27] 	Account ID: 279894516
+[2023-10-31 11:34:27] 	Enabled: false
+[2023-10-31 11:34:27] 	Base list: 0 ()
+[2023-10-31 11:34:27] 	No custom list
+[2023-10-31 11:34:27] 	No enabled features
+
+
+[2023-10-31 11:41:49] Client version: 1698262904
+[2023-10-31 11:41:49] Validating parental settings
+[2023-10-31 11:41:49] Settings dump:
+[2023-10-31 11:41:49] 	Account ID: 279894516
+[2023-10-31 11:41:49] 	Enabled: false
+[2023-10-31 11:41:49] 	Base list: 0 ()
+[2023-10-31 11:41:49] 	No custom list
+[2023-10-31 11:41:49] 	No enabled features
+
+
+[2023-10-31 11:49:30] Client version: 1698262904
+[2023-10-31 11:49:30] Validating parental settings
+[2023-10-31 11:49:30] Settings dump:
+[2023-10-31 11:49:30] 	Account ID: 279894516
+[2023-10-31 11:49:30] 	Enabled: false
+[2023-10-31 11:49:30] 	Base list: 0 ()
+[2023-10-31 11:49:30] 	No custom list
+[2023-10-31 11:49:30] 	No enabled features
+
+
+[2023-10-31 11:50:53] Client version: 1698262904
+[2023-10-31 11:50:53] Validating parental settings
+[2023-10-31 11:50:53] Settings dump:
+[2023-10-31 11:50:53] 	Account ID: 279894516
+[2023-10-31 11:50:53] 	Enabled: false
+[2023-10-31 11:50:53] 	Base list: 0 ()
+[2023-10-31 11:50:53] 	No custom list
+[2023-10-31 11:50:53] 	No enabled features
+
+
+[2023-10-31 11:52:46] Client version: 1698262904
+[2023-10-31 11:52:46] Validating parental settings
+[2023-10-31 11:52:46] Settings dump:
+[2023-10-31 11:52:46] 	Account ID: 279894516
+[2023-10-31 11:52:46] 	Enabled: false
+[2023-10-31 11:52:46] 	Base list: 0 ()
+[2023-10-31 11:52:46] 	No custom list
+[2023-10-31 11:52:46] 	No enabled features
+
+
+[2023-10-31 11:53:54] Client version: 1698262904
+[2023-10-31 11:53:54] Validating parental settings
+[2023-10-31 11:53:54] Settings dump:
+[2023-10-31 11:53:54] 	Account ID: 279894516
+[2023-10-31 11:53:54] 	Enabled: false
+[2023-10-31 11:53:54] 	Base list: 0 ()
+[2023-10-31 11:53:54] 	No custom list
+[2023-10-31 11:53:54] 	No enabled features
+
+
+[2023-10-31 12:04:54] Client version: 1698262904
+[2023-10-31 12:04:54] Validating parental settings
+[2023-10-31 12:04:54] Settings dump:
+[2023-10-31 12:04:54] 	Account ID: 279894516
+[2023-10-31 12:04:54] 	Enabled: false
+[2023-10-31 12:04:54] 	Base list: 0 ()
+[2023-10-31 12:04:54] 	No custom list
+[2023-10-31 12:04:54] 	No enabled features
+
+
+[2023-10-31 12:05:20] Client version: 1698262904
+[2023-10-31 12:05:20] Validating parental settings
+[2023-10-31 12:05:20] Settings dump:
+[2023-10-31 12:05:20] 	Account ID: 279894516
+[2023-10-31 12:05:20] 	Enabled: false
+[2023-10-31 12:05:20] 	Base list: 0 ()
+[2023-10-31 12:05:20] 	No custom list
+[2023-10-31 12:05:20] 	No enabled features
+
+
+[2023-10-31 12:07:38] Client version: 1698262904
+[2023-10-31 12:07:38] Validating parental settings
+[2023-10-31 12:07:38] Settings dump:
+[2023-10-31 12:07:38] 	Account ID: 279894516
+[2023-10-31 12:07:38] 	Enabled: false
+[2023-10-31 12:07:38] 	Base list: 0 ()
+[2023-10-31 12:07:38] 	No custom list
+[2023-10-31 12:07:38] 	No enabled features
+
+
+[2023-11-01 09:08:13] Client version: 1698778122
+[2023-11-01 09:08:13] Validating parental settings
+[2023-11-01 09:08:13] Settings dump:
+[2023-11-01 09:08:13] 	Account ID: 279894516
+[2023-11-01 09:08:13] 	Enabled: false
+[2023-11-01 09:08:13] 	Base list: 0 ()
+[2023-11-01 09:08:13] 	No custom list
+[2023-11-01 09:08:13] 	No enabled features
+
+
+[2023-11-01 09:09:28] Client version: 1698778122
+[2023-11-01 09:09:28] Validating parental settings
+[2023-11-01 09:09:28] Settings dump:
+[2023-11-01 09:09:28] 	Account ID: 279894516
+[2023-11-01 09:09:28] 	Enabled: false
+[2023-11-01 09:09:28] 	Base list: 0 ()
+[2023-11-01 09:09:28] 	No custom list
+[2023-11-01 09:09:28] 	No enabled features
+
+
+[2023-11-01 10:12:22] Client version: 1698778122
+[2023-11-01 10:12:22] Validating parental settings
+[2023-11-01 10:12:22] Settings dump:
+[2023-11-01 10:12:22] 	Account ID: 279894516
+[2023-11-01 10:12:22] 	Enabled: false
+[2023-11-01 10:12:22] 	Base list: 0 ()
+[2023-11-01 10:12:22] 	No custom list
+[2023-11-01 10:12:22] 	No enabled features
+
+
+[2023-11-01 10:20:23] Client version: 1698778122
+[2023-11-01 10:20:23] Validating parental settings
+[2023-11-01 10:20:23] Settings dump:
+[2023-11-01 10:20:23] 	Account ID: 279894516
+[2023-11-01 10:20:23] 	Enabled: false
+[2023-11-01 10:20:23] 	Base list: 0 ()
+[2023-11-01 10:20:23] 	No custom list
+[2023-11-01 10:20:23] 	No enabled features
+
+
+[2023-11-01 11:52:31] Client version: 1698778122
+[2023-11-01 11:52:31] Validating parental settings
+[2023-11-01 11:52:31] Settings dump:
+[2023-11-01 11:52:31] 	Account ID: 279894516
+[2023-11-01 11:52:31] 	Enabled: false
+[2023-11-01 11:52:31] 	Base list: 0 ()
+[2023-11-01 11:52:31] 	No custom list
+[2023-11-01 11:52:31] 	No enabled features

@@ -1,0 +1,191 @@
+[2023-11-01 11:52:37]: Building file listing for depot 2191710 ...
+[2023-11-01 11:52:37]: Found 601 files for mapping: D:\SteamMOD\Sample\paks * -> .
+[2023-11-01 11:52:37]: Found 601 files (132 MB) for depot 2191710
+[2023-11-01 11:52:39]: Building depot 2191710, baseline manifest 1819516022912525010 (601 files)
+[2023-11-01 11:52:39]: Found 398 chunks ( 398 used previously ) for depot 2191710, took 0 minutes, 0 seconds
+[2023-11-01 11:52:39]: Changes to baseline manifest 1819516022912525010 :
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\0\0.PNG" 68 kB size, 68 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\10\0.PNG" 153 kB size, 153 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\11\0.PNG" 156 kB size, 156 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\12\0.PNG" 187 kB size, 187 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\13\0.PNG" 189 kB size, 189 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\14\0.PNG" 299 kB size, 299 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\15\0.PNG" 74 kB size, 74 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\16\0.PNG" 71 kB size, 71 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\17\0.PNG" 175 kB size, 175 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\18\0.PNG" 186 kB size, 186 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\19\0.PNG" 66 kB size, 66 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\1\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\20\0.PNG" 93 kB size, 93 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\21\0.PNG" 269 kB size, 269 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\22\0.PNG" 184 kB size, 184 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\23\0.PNG" 277 kB size, 277 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\24\0.PNG" 264 kB size, 264 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\2\0.PNG" 61 kB size, 61 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\3\0.PNG" 61 kB size, 61 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\4\0.PNG" 80 kB size, 80 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\5\0.PNG" 81 kB size, 81 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\6\0.PNG" 106 kB size, 106 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\7\0.PNG" 103 kB size, 103 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\8\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\0\9\0.PNG" 76 kB size, 76 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\0\0.PNG" 152 kB size, 152 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\1\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\2\0.PNG" 133 kB size, 133 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\3\0.PNG" 119 kB size, 119 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\4\0.PNG" 113 kB size, 113 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\5\0.PNG" 191 kB size, 191 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\6\0.PNG" 119 kB size, 119 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\7\0.PNG" 234 kB size, 234 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\1\8\0.PNG" 238 kB size, 238 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B11\0.PNG" 62 kB size, 62 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B157\0.PNG" 72 kB size, 72 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B158\0.PNG" 58 kB size, 58 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B159\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B162\0.PNG" 46 kB size, 46 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B167\0.PNG" 73 kB size, 73 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B170\0.PNG" 55 kB size, 55 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B171\0.PNG" 54 kB size, 54 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B172\0.PNG" 37 kB size, 37 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B174\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B175\0.PNG" 59 kB size, 59 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B179\0.PNG" 60 kB size, 60 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B181\0.PNG" 46 kB size, 46 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B182\0.PNG" 41 kB size, 41 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B183\0.PNG" 70 kB size, 70 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B184\0.PNG" 93 kB size, 93 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B185\0.PNG" 124 kB size, 124 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B187\0.PNG" 320 kB size, 320 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B188\0.PNG" 73 kB size, 73 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B18\0.PNG" 101 kB size, 101 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B190\0.PNG" 187 kB size, 187 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B191\0.PNG" 280 kB size, 280 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B192\0.PNG" 291 kB size, 291 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B193\0.PNG" 114 kB size, 114 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B194\0.PNG" 157 kB size, 157 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B195\0.PNG" 102 kB size, 102 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B196\0.PNG" 113 kB size, 113 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B197\0.PNG" 96 kB size, 96 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B198\0.PNG" 685 kB size, 685 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B19\0.PNG" 113 kB size, 113 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B203\0.PNG" 57 kB size, 57 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B204\0.PNG" 108 kB size, 108 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B20\0.PNG" 77 kB size, 77 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B21\0.PNG" 98 kB size, 98 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B22\0.PNG" 80 kB size, 80 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B238\0.PNG" 113 kB size, 113 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B23\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B240\0.PNG" 116 kB size, 116 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B24\0.PNG" 76 kB size, 76 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B25\0.PNG" 50 kB size, 50 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B26\0.PNG" 105 kB size, 105 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B27\0.PNG" 89 kB size, 89 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B28\0.PNG" 79 kB size, 79 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B29\0.PNG" 63 kB size, 63 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B30\0.PNG" 57 kB size, 57 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B31\0.PNG" 69 kB size, 69 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B32\0.PNG" 56 kB size, 56 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B33\0.PNG" 67 kB size, 67 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B35\0.PNG" 92 kB size, 92 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B36\0.PNG" 113 kB size, 113 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B37\0.PNG" 81 kB size, 81 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B38\0.PNG" 79 kB size, 79 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B39\0.PNG" 171 kB size, 171 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B40\0.PNG" 143 kB size, 143 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B78\0.PNG" 95 kB size, 95 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B7\0.PNG" 163 kB size, 163 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B87\0.PNG" 90 kB size, 90 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B8\0.PNG" 125 kB size, 125 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\B99\0.PNG" 62 kB size, 62 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F100\0.PNG" 286 kB size, 286 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F10\0.PNG" 119 kB size, 119 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F12\0.PNG" 150 kB size, 150 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F130\0.PNG" 100 kB size, 100 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F132\0.PNG" 116 kB size, 116 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F13\0.PNG" 91 kB size, 91 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F144\0.PNG" 97 kB size, 97 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F145\0.PNG" 76 kB size, 76 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F148\0.PNG" 222 kB size, 222 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F149\0.PNG" 115 kB size, 115 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F14\0.PNG" 85 kB size, 85 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F151\0.PNG" 122 kB size, 122 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F15\0.PNG" 133 kB size, 133 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F164\0.PNG" 39 kB size, 39 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F166\0.PNG" 54 kB size, 54 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F16\0.PNG" 90 kB size, 90 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F17\0.PNG" 88 kB size, 88 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F186\0.PNG" 986 kB size, 986 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F187\0.PNG" 317 kB size, 317 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F1\0.PNG" 127 kB size, 127 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F2\0.PNG" 77 kB size, 77 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F3\0.PNG" 84 kB size, 84 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F41\0.PNG" 164 kB size, 164 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F42\0.PNG" 140 kB size, 140 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F43\0.PNG" 93 kB size, 93 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F44\0.PNG" 148 kB size, 148 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F45\0.PNG" 134 kB size, 134 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F46\0.PNG" 105 kB size, 105 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F47\0.PNG" 133 kB size, 133 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F48\0.PNG" 63 kB size, 63 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F49\0.PNG" 194 kB size, 194 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F4\0.PNG" 152 kB size, 152 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F50\0.PNG" 37 kB size, 37 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F51\0.PNG" 128 kB size, 128 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F52\0.PNG" 37 kB size, 37 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F54\0.PNG" 85 kB size, 85 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F57\0.PNG" 74 kB size, 74 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F58\0.PNG" 141 kB size, 141 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F5\0.PNG" 85 kB size, 85 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F61\0.PNG" 142 kB size, 142 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F62\0.PNG" 125 kB size, 125 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F69\0.PNG" 97 kB size, 97 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F6\0.PNG" 79 kB size, 79 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F70\0.PNG" 83 kB size, 83 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F73\0.PNG" 85 kB size, 85 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F76\0.PNG" 210 kB size, 210 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F85\0.PNG" 100 kB size, 100 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F88\0.PNG" 110 kB size, 110 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F95\0.PNG" 319 kB size, 319 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\F9\0.PNG" 172 kB size, 172 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\N1\0.PNG" 191 kB size, 191 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\202\0.PNG" 127 kB size, 127 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F101\0.PNG" 98 kB size, 98 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F105\0.PNG" 101 kB size, 101 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F241\0.PNG" 122 kB size, 122 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F53\0.PNG" 314 kB size, 314 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F56\0.PNG" 305 kB size, 305 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F59\0.PNG" 239 kB size, 239 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F60\0.PNG" 412 kB size, 412 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F63\0.PNG" 259 kB size, 259 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F66\0.PNG" 191 kB size, 191 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F67\0.PNG" 171 kB size, 171 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F71\0.PNG" 229 kB size, 229 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F79\0.PNG" 215 kB size, 215 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F80\0.PNG" 224 kB size, 224 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F83\0.PNG" 222 kB size, 222 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F92\0.PNG" 295 kB size, 295 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\npc\F98\0.PNG" 117 kB size, 117 kB changed 
+[2023-11-01 11:52:39]: Changed: "Sprites\Cards\NewFace\X78\0.PNG" 282 kB size, 282 kB changed 
+[2023-11-01 11:52:39]: Summary: 0 files added, 162 files changed, 0 files removed
+[2023-11-01 11:52:40]: Uploading new manifest to 208.64.201.182:80 (handle 16295245261044951152, 72151 bytes).
+[2023-11-01 11:52:42]: Uploading 162 out of 162 missing chunks.
+[2023-11-01 11:52:46]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/484d9ce8c3067dc1ca721bd3a34f9516c5a863c1/2354800629".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:47]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/5d50c872d06cfca1a6e63edab44f9bd01b71b2d4/3031560087".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:47]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/685ab10f4461571c1f1b87d2a72093064b907846/123404236".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:47]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/71c4a61db8fb4d3c44feaa5916aca2646e67303e/1544827449".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:47]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/6d705df47b233dbbeb6d980fc08307f33b354173/995925716".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:48]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/96180f69df3250b3cfe0c2b1509264e6ed305ec8/3952103931".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:48]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/b1721b33398a0fd249e10fe557001399e944d57d/248621966".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/7d3cf4aeecbcf26afe7977dfab1e281b08c2e7a7/3419835753".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/bb49dee09f2555b6a8495f5c079a4bd0b78ab676/2810502060".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/dfbee5718e13665d990513cc95483d5ffa0a436a/2177793368".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/9cc50ca001620649eed051fb695dbed0b5421d91/2766970993".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/e77f74b8b7103f0bb855073b48761cc4ef8e7d43/534512539".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:49]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/ee64c895fb0c68fa03c3e971b45a5ff754e62408/3739687337".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:50]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/f93ad1b78ac1fc610b3a9339ec35530dfe8b5e38/1961613869".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:50]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/c576b01dbc02b69e68e7a8d223507459bd3fbc0b/3453911254".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:51]: Uploading 15 out of 15 missing chunks.
+[2023-11-01 11:52:52]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/b1721b33398a0fd249e10fe557001399e944d57d/436362497".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:52]: Retrying chunk for URL "http://208.64.201.182:80/depotupload/16295245261044951152/chunk/5d50c872d06cfca1a6e63edab44f9bd01b71b2d4/1562428812".  HTTP 502.  (from 127.0.0.1:7890)
+[2023-11-01 11:52:54]: Uploading 2 out of 2 missing chunks.
+[2023-11-01 11:52:57]: Success! New manifestID 244265267705469124 created and 162 new chunks uploaded.

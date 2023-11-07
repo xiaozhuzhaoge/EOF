@@ -1,0 +1,921 @@
+
+
+[2023-10-31 09:55:09] Startup - updater built Dec  2 2013 18:43:44
+[2023-10-31 09:55:09] Checking for update on startup
+[2023-10-31 09:55:09] Checking for available update...
+[2023-10-31 09:55:09] Download failed: http error 0
+[2023-10-31 09:55:10] Package file steamcmd_public_all.zip.25d3f4b85743256d2196516814bb4d92efd0a863 missing or incorrect size
+[2023-10-31 09:55:10] Package file steamcmd_bins_win32.zip.8c3e51b4c5a788a5e888561b627cadb58a457a5e missing or incorrect size
+[2023-10-31 09:55:10] Package file steamcmd_steamservice_win32.zip.40603674af7bf71a1a7630b49a9663a0dea8a5d3 missing or incorrect size
+[2023-10-31 09:55:10] Package file steamcmd_steamerrorreporter_win32.zip.f9207cf9aa1cd3cb45775a213274f9b1a72b6b49 missing or incorrect size
+[2023-10-31 09:55:10] Package file steamcmd_siteserverui_win32.zip.347348b1751fce26c2492c8e4c4086dd95776eb5 missing or incorrect size
+[2023-10-31 09:55:10] Package file steamcmd_win32.zip.02206ebeab552adff1086ee347bdd5153145d637 missing or incorrect size
+[2023-10-31 09:55:10] Downloading update (0 of 68,751 KB)...
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_siteserverui_win32) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2023-10-31 09:55:11] Package file steamcmd_public_all.zip.25d3f4b85743256d2196516814bb4d92efd0a863 missing or incorrect size
+[2023-10-31 09:55:11] Package file steamcmd_bins_win32.zip.8c3e51b4c5a788a5e888561b627cadb58a457a5e missing or incorrect size
+[2023-10-31 09:55:11] Package file steamcmd_steamservice_win32.zip.40603674af7bf71a1a7630b49a9663a0dea8a5d3 missing or incorrect size
+[2023-10-31 09:55:11] Package file steamcmd_steamerrorreporter_win32.zip.f9207cf9aa1cd3cb45775a213274f9b1a72b6b49 missing or incorrect size
+[2023-10-31 09:55:11] Package file steamcmd_siteserverui_win32.zip.347348b1751fce26c2492c8e4c4086dd95776eb5 missing or incorrect size
+[2023-10-31 09:55:11] Package file steamcmd_win32.zip.02206ebeab552adff1086ee347bdd5153145d637 missing or incorrect size
+[2023-10-31 09:55:11] Downloading update (15 of 68,751 KB)...
+[2023-10-31 09:55:11] Downloading update (275 of 68,751 KB)...
+[2023-10-31 09:55:12] Downloading update (1,753 of 68,751 KB)...
+[2023-10-31 09:55:12] Downloading update (3,998 of 68,751 KB)...
+[2023-10-31 09:55:12] Downloading update (4,321 of 68,751 KB)...
+[2023-10-31 09:55:12] Downloading update (4,909 of 68,751 KB)...
+[2023-10-31 09:55:13] Downloading update (6,751 of 68,751 KB)...
+[2023-10-31 09:55:13] Downloading update (8,183 of 68,751 KB)...
+[2023-10-31 09:55:13] Downloading update (8,831 of 68,751 KB)...
+[2023-10-31 09:55:13] Downloading update (9,463 of 68,751 KB)...
+[2023-10-31 09:55:14] Downloading update (10,134 of 68,751 KB)...
+[2023-10-31 09:55:14] Downloading update (10,789 of 68,751 KB)...
+[2023-10-31 09:55:14] Downloading update (11,445 of 68,751 KB)...
+[2023-10-31 09:55:14] Downloading update (12,100 of 68,751 KB)...
+[2023-10-31 09:55:15] Downloading update (12,772 of 68,751 KB)...
+[2023-10-31 09:55:15] Downloading update (13,394 of 68,751 KB)...
+[2023-10-31 09:55:15] Downloading update (14,083 of 68,751 KB)...
+[2023-10-31 09:55:15] Downloading update (14,705 of 68,751 KB)...
+[2023-10-31 09:55:16] Downloading update (15,426 of 68,751 KB)...
+[2023-10-31 09:55:16] Downloading update (16,016 of 68,751 KB)...
+[2023-10-31 09:55:16] Downloading update (16,712 of 68,751 KB)...
+[2023-10-31 09:55:17] Downloading update (17,327 of 68,751 KB)...
+[2023-10-31 09:55:17] Downloading update (18,064 of 68,751 KB)...
+[2023-10-31 09:55:17] Downloading update (18,695 of 68,751 KB)...
+[2023-10-31 09:55:17] Downloading update (19,415 of 68,751 KB)...
+[2023-10-31 09:55:18] Downloading update (20,047 of 68,751 KB)...
+[2023-10-31 09:55:18] Downloading update (20,750 of 68,751 KB)...
+[2023-10-31 09:55:18] Downloading update (21,390 of 68,751 KB)...
+[2023-10-31 09:55:18] Downloading update (22,045 of 68,751 KB)...
+[2023-10-31 09:55:19] Downloading update (22,701 of 68,751 KB)...
+[2023-10-31 09:55:19] Downloading update (23,421 of 68,751 KB)...
+[2023-10-31 09:55:19] Downloading update (24,036 of 68,751 KB)...
+[2023-10-31 09:55:19] Downloading update (24,748 of 68,751 KB)...
+[2023-10-31 09:55:20] Downloading update (25,293 of 68,751 KB)...
+[2023-10-31 09:55:20] Downloading update (25,621 of 68,751 KB)...
+[2023-10-31 09:55:20] Downloading update (26,006 of 68,751 KB)...
+[2023-10-31 09:55:20] Downloading update (26,276 of 68,751 KB)...
+[2023-10-31 09:55:21] Downloading update (26,645 of 68,751 KB)...
+[2023-10-31 09:55:21] Downloading update (26,956 of 68,751 KB)...
+[2023-10-31 09:55:21] Downloading update (27,317 of 68,751 KB)...
+[2023-10-31 09:55:22] Downloading update (27,644 of 68,751 KB)...
+[2023-10-31 09:55:22] Downloading update (27,989 of 68,751 KB)...
+[2023-10-31 09:55:22] Downloading update (28,292 of 68,751 KB)...
+[2023-10-31 09:55:22] Downloading update (28,685 of 68,751 KB)...
+[2023-10-31 09:55:23] Downloading update (29,012 of 68,751 KB)...
+[2023-10-31 09:55:23] Downloading update (29,340 of 68,751 KB)...
+[2023-10-31 09:55:23] Downloading update (29,668 of 68,751 KB)...
+[2023-10-31 09:55:23] Downloading update (30,020 of 68,751 KB)...
+[2023-10-31 09:55:24] Downloading update (30,315 of 68,751 KB)...
+[2023-10-31 09:55:24] Downloading update (30,708 of 68,751 KB)...
+[2023-10-31 09:55:24] Downloading update (31,036 of 68,751 KB)...
+[2023-10-31 09:55:24] Downloading update (31,339 of 68,751 KB)...
+[2023-10-31 09:55:25] Downloading update (31,691 of 68,751 KB)...
+[2023-10-31 09:55:25] Downloading update (31,978 of 68,751 KB)...
+[2023-10-31 09:55:25] Downloading update (32,306 of 68,751 KB)...
+[2023-10-31 09:55:25] Downloading update (32,666 of 68,751 KB)...
+[2023-10-31 09:55:26] Downloading update (32,928 of 68,751 KB)...
+[2023-10-31 09:55:26] Downloading update (33,289 of 68,751 KB)...
+[2023-10-31 09:55:26] Downloading update (33,428 of 68,751 KB)...
+[2023-10-31 09:55:26] Downloading update (33,616 of 68,751 KB)...
+[2023-10-31 09:55:27] Downloading update (33,936 of 68,751 KB)...
+[2023-10-31 09:55:27] Downloading update (34,321 of 68,751 KB)...
+[2023-10-31 09:55:27] Downloading update (34,616 of 68,751 KB)...
+[2023-10-31 09:55:28] Downloading update (34,984 of 68,751 KB)...
+[2023-10-31 09:55:28] Downloading update (35,116 of 68,751 KB)...
+[2023-10-31 09:55:28] Downloading update (35,378 of 68,751 KB)...
+[2023-10-31 09:55:28] Downloading update (35,697 of 68,751 KB)...
+[2023-10-31 09:55:29] Downloading update (36,057 of 68,751 KB)...
+[2023-10-31 09:55:29] Downloading update (36,360 of 68,751 KB)...
+[2023-10-31 09:55:29] Downloading update (36,680 of 68,751 KB)...
+[2023-10-31 09:55:29] Downloading update (37,008 of 68,751 KB)...
+[2023-10-31 09:55:30] Downloading update (37,336 of 68,751 KB)...
+[2023-10-31 09:55:30] Downloading update (37,622 of 68,751 KB)...
+[2023-10-31 09:55:30] Downloading update (37,982 of 68,751 KB)...
+[2023-10-31 09:55:30] Downloading update (38,310 of 68,751 KB)...
+[2023-10-31 09:55:31] Downloading update (38,638 of 68,751 KB)...
+[2023-10-31 09:55:31] Downloading update (38,966 of 68,751 KB)...
+[2023-10-31 09:55:31] Downloading update (39,293 of 68,751 KB)...
+[2023-10-31 09:55:31] Downloading update (39,613 of 68,751 KB)...
+[2023-10-31 09:55:32] Downloading update (39,974 of 68,751 KB)...
+[2023-10-31 09:55:32] Downloading update (40,334 of 68,751 KB)...
+[2023-10-31 09:55:32] Downloading update (40,662 of 68,751 KB)...
+[2023-10-31 09:55:32] Downloading update (40,973 of 68,751 KB)...
+[2023-10-31 09:55:33] Downloading update (41,251 of 68,751 KB)...
+[2023-10-31 09:55:33] Downloading update (41,571 of 68,751 KB)...
+[2023-10-31 09:55:33] Downloading update (41,899 of 68,751 KB)...
+[2023-10-31 09:55:33] Downloading update (42,210 of 68,751 KB)...
+[2023-10-31 09:55:34] Downloading update (42,488 of 68,751 KB)...
+[2023-10-31 09:55:34] Downloading update (42,816 of 68,751 KB)...
+[2023-10-31 09:55:34] Downloading update (43,135 of 68,751 KB)...
+[2023-10-31 09:55:35] Downloading update (43,463 of 68,751 KB)...
+[2023-10-31 09:55:35] Downloading update (43,791 of 68,751 KB)...
+[2023-10-31 09:55:35] Downloading update (44,143 of 68,751 KB)...
+[2023-10-31 09:55:35] Downloading update (44,454 of 68,751 KB)...
+[2023-10-31 09:55:36] Downloading update (44,807 of 68,751 KB)...
+[2023-10-31 09:55:36] Downloading update (45,101 of 68,751 KB)...
+[2023-10-31 09:55:36] Downloading update (45,454 of 68,751 KB)...
+[2023-10-31 09:55:36] Downloading update (45,782 of 68,751 KB)...
+[2023-10-31 09:55:37] Downloading update (46,109 of 68,751 KB)...
+[2023-10-31 09:55:37] Downloading update (46,437 of 68,751 KB)...
+[2023-10-31 09:55:37] Downloading update (46,756 of 68,751 KB)...
+[2023-10-31 09:55:37] Downloading update (47,084 of 68,751 KB)...
+[2023-10-31 09:55:38] Downloading update (47,412 of 68,751 KB)...
+[2023-10-31 09:55:38] Downloading update (47,739 of 68,751 KB)...
+[2023-10-31 09:55:38] Downloading update (48,067 of 68,751 KB)...
+[2023-10-31 09:55:38] Downloading update (48,395 of 68,751 KB)...
+[2023-10-31 09:55:39] Downloading update (48,780 of 68,751 KB)...
+[2023-10-31 09:55:39] Downloading update (49,099 of 68,751 KB)...
+[2023-10-31 09:55:39] Downloading update (49,435 of 68,751 KB)...
+[2023-10-31 09:55:40] Downloading update (49,763 of 68,751 KB)...
+[2023-10-31 09:55:40] Downloading update (50,091 of 68,751 KB)...
+[2023-10-31 09:55:40] Downloading update (50,459 of 68,751 KB)...
+[2023-10-31 09:55:40] Downloading update (50,754 of 68,751 KB)...
+[2023-10-31 09:55:41] Downloading update (51,131 of 68,751 KB)...
+[2023-10-31 09:55:41] Downloading update (51,426 of 68,751 KB)...
+[2023-10-31 09:55:41] Downloading update (51,786 of 68,751 KB)...
+[2023-10-31 09:55:41] Downloading update (52,097 of 68,751 KB)...
+[2023-10-31 09:55:42] Downloading update (52,466 of 68,751 KB)...
+[2023-10-31 09:55:42] Downloading update (52,794 of 68,751 KB)...
+[2023-10-31 09:55:42] Downloading update (53,089 of 68,751 KB)...
+[2023-10-31 09:55:42] Downloading update (53,417 of 68,751 KB)...
+[2023-10-31 09:55:43] Downloading update (53,744 of 68,751 KB)...
+[2023-10-31 09:55:43] Downloading update (54,064 of 68,751 KB)...
+[2023-10-31 09:55:43] Downloading update (54,391 of 68,751 KB)...
+[2023-10-31 09:55:43] Downloading update (54,719 of 68,751 KB)...
+[2023-10-31 09:55:44] Downloading update (55,079 of 68,751 KB)...
+[2023-10-31 09:55:44] Downloading update (55,375 of 68,751 KB)...
+[2023-10-31 09:55:44] Downloading update (55,702 of 68,751 KB)...
+[2023-10-31 09:55:44] Downloading update (56,087 of 68,751 KB)...
+[2023-10-31 09:55:45] Downloading update (56,414 of 68,751 KB)...
+[2023-10-31 09:55:45] Downloading update (56,742 of 68,751 KB)...
+[2023-10-31 09:55:45] Downloading update (57,070 of 68,751 KB)...
+[2023-10-31 09:55:45] Downloading update (57,463 of 68,751 KB)...
+[2023-10-31 09:55:46] Downloading update (57,783 of 68,751 KB)...
+[2023-10-31 09:55:46] Downloading update (58,110 of 68,751 KB)...
+[2023-10-31 09:55:46] Downloading update (58,438 of 68,751 KB)...
+[2023-10-31 09:55:47] Downloading update (58,831 of 68,751 KB)...
+[2023-10-31 09:55:47] Downloading update (59,134 of 68,751 KB)...
+[2023-10-31 09:55:47] Downloading update (59,454 of 68,751 KB)...
+[2023-10-31 09:55:47] Downloading update (59,773 of 68,751 KB)...
+[2023-10-31 09:55:48] Downloading update (60,134 of 68,751 KB)...
+[2023-10-31 09:55:48] Downloading update (60,461 of 68,751 KB)...
+[2023-10-31 09:55:48] Downloading update (60,822 of 68,751 KB)...
+[2023-10-31 09:55:48] Downloading update (61,125 of 68,751 KB)...
+[2023-10-31 09:55:49] Downloading update (61,502 of 68,751 KB)...
+[2023-10-31 09:55:49] Downloading update (61,821 of 68,751 KB)...
+[2023-10-31 09:55:49] Downloading update (62,157 of 68,751 KB)...
+[2023-10-31 09:55:49] Downloading update (62,485 of 68,751 KB)...
+[2023-10-31 09:55:50] Downloading update (62,813 of 68,751 KB)...
+[2023-10-31 09:55:50] Downloading update (63,190 of 68,751 KB)...
+[2023-10-31 09:55:50] Downloading update (63,493 of 68,751 KB)...
+[2023-10-31 09:55:50] Downloading update (63,820 of 68,751 KB)...
+[2023-10-31 09:55:51] Downloading update (64,148 of 68,751 KB)...
+[2023-10-31 09:55:51] Downloading update (64,509 of 68,751 KB)...
+[2023-10-31 09:55:51] Downloading update (64,836 of 68,751 KB)...
+[2023-10-31 09:55:51] Downloading update (65,197 of 68,751 KB)...
+[2023-10-31 09:55:52] Downloading update (65,516 of 68,751 KB)...
+[2023-10-31 09:55:52] Downloading update (65,877 of 68,751 KB)...
+[2023-10-31 09:55:52] Downloading update (66,204 of 68,751 KB)...
+[2023-10-31 09:55:53] Downloading update (66,565 of 68,751 KB)...
+[2023-10-31 09:55:53] Downloading update (66,892 of 68,751 KB)...
+[2023-10-31 09:55:53] Downloading update (67,212 of 68,751 KB)...
+[2023-10-31 09:55:53] Downloading update (67,417 of 68,751 KB)...
+[2023-10-31 09:55:54] Downloading update (67,605 of 68,751 KB)...
+[2023-10-31 09:55:54] Downloading update (67,933 of 68,751 KB)...
+[2023-10-31 09:55:54] Downloading update (68,260 of 68,751 KB)...
+[2023-10-31 09:55:54] Downloading update (68,621 of 68,751 KB)...
+[2023-10-31 09:55:55] Downloading update (68,751 of 68,751 KB)...
+[2023-10-31 09:55:55] Download Complete.
+[2023-10-31 09:55:55] uninstalled manifest found in D:\ModPackage\package\steam_cmd_win32 (1).
+[2023-10-31 09:55:55] Found pending update
+[2023-10-31 09:55:55] Applying update...
+[2023-10-31 09:55:55] Extracting package...
+[2023-10-31 09:55:57] Installing update...
+[2023-10-31 09:55:57] Committing NTFS transaction (0 non-transactional backup files)
+[2023-10-31 09:55:57] Cleaning up...
+[2023-10-31 09:55:57] Update complete, launching...
+[2023-10-31 09:55:57] Shutdown
+
+
+[2023-10-31 10:35:48] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:35:48] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:35:48] Loading cached metrics from disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-10-31 10:35:48] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2023-10-31 10:35:48] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:35:48] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:35:48] Checking for update on startup
+[2023-10-31 10:35:48] 正在检查可用更新...
+[2023-10-31 10:35:48] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:35:48] Manifest download: send request
+[2023-10-31 10:35:49] Manifest download: waiting for download to finish
+[2023-10-31 10:35:49] Manifest download: finished
+[2023-10-31 10:35:49] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:35:49] Nothing to do
+[2023-10-31 10:35:49] 正在验证安装...
+[2023-10-31 10:35:49] Performing checksum verification of executable files
+[2023-10-31 10:35:50] Verification complete
+
+
+[2023-10-31 10:36:44] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:36:44] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:36:44] Loading cached metrics from disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-10-31 10:36:44] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2023-10-31 10:36:44] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:36:44] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:36:44] Checking for update on startup
+[2023-10-31 10:36:44] 正在检查可用更新...
+[2023-10-31 10:36:44] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:36:44] Manifest download: send request
+[2023-10-31 10:36:44] Manifest download: waiting for download to finish
+[2023-10-31 10:36:45] Manifest download: finished
+[2023-10-31 10:36:45] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:36:45] Nothing to do
+[2023-10-31 10:36:45] 正在验证安装...
+
+
+[2023-10-31 10:36:59] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:36:59] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:36:59] Loading cached metrics from disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-10-31 10:36:59] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2023-10-31 10:36:59] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:36:59] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:36:59] Checking for update on startup
+[2023-10-31 10:36:59] 正在检查可用更新...
+[2023-10-31 10:36:59] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:37:00] Manifest download: send request
+[2023-10-31 10:37:00] Manifest download: waiting for download to finish
+[2023-10-31 10:37:02] Manifest download: finished
+[2023-10-31 10:37:02] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:37:02] Nothing to do
+[2023-10-31 10:37:02] 正在验证安装...
+[2023-10-31 10:37:02] Performing checksum verification of executable files
+[2023-10-31 10:37:02] Verification complete
+[2023-10-31 10:37:11] Shutdown
+
+
+[2023-10-31 10:37:31] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:37:31] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:37:31] Loading cached metrics from disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-10-31 10:37:31] Failed to load cached hosts file (File 'update_hosts_cached.vdf' not found), using defaults
+[2023-10-31 10:37:31] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:37:31] 1. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:37:31] Checking for update on startup
+[2023-10-31 10:37:31] 正在检查可用更新...
+[2023-10-31 10:37:31] Downloading manifest: https://cdn.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:37:31] Manifest download: send request
+[2023-10-31 10:37:31] Manifest download: waiting for download to finish
+[2023-10-31 10:37:32] Manifest download: finished
+[2023-10-31 10:37:32] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:37:32] Nothing to do
+[2023-10-31 10:37:32] 正在验证安装...
+[2023-10-31 10:37:32] Performing checksum verification of executable files
+[2023-10-31 10:37:32] Verification complete
+[2023-10-31 10:38:12] Clearing cached metrics (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-10-31 10:38:47] Shutdown
+
+
+[2023-10-31 10:39:33] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:39:33] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:39:33] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:39:33] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:39:33] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:39:33] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:39:33] Checking for update on startup
+[2023-10-31 10:39:33] 正在检查可用更新...
+[2023-10-31 10:39:33] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:39:34] Manifest download: send request
+[2023-10-31 10:39:34] Manifest download: waiting for download to finish
+[2023-10-31 10:39:37] Manifest download: finished
+[2023-10-31 10:39:37] Download failed: http error 200 (client-update.akamai.steamstatic.com/steam_cmd_win32)
+[2023-10-31 10:39:37] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:39:37] Manifest download: send request
+[2023-10-31 10:39:37] Manifest download: waiting for download to finish
+[2023-10-31 10:39:38] Manifest download: finished
+[2023-10-31 10:39:38] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:39:38] Nothing to do
+[2023-10-31 10:39:38] 正在验证安装...
+[2023-10-31 10:39:44] Performing checksum verification of executable files
+[2023-10-31 10:39:44] Verification complete
+[2023-10-31 10:40:26] Shutdown
+
+
+[2023-10-31 10:40:30] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:40:30] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:40:30] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:40:30] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:40:30] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:40:30] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:40:30] Checking for update on startup
+[2023-10-31 10:40:30] 正在检查可用更新...
+[2023-10-31 10:40:30] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:40:30] Manifest download: send request
+[2023-10-31 10:40:31] Manifest download: waiting for download to finish
+[2023-10-31 10:41:31] Manifest download: finished
+[2023-10-31 10:41:31] Download failed: http error 200 (client-update.akamai.steamstatic.com/steam_cmd_win32)
+[2023-10-31 10:41:31] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:41:31] Manifest download: send request
+[2023-10-31 10:41:31] Manifest download: waiting for download to finish
+[2023-10-31 10:41:31] Manifest download: finished
+[2023-10-31 10:41:31] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:41:31] Nothing to do
+[2023-10-31 10:41:31] 正在验证安装...
+[2023-10-31 10:41:31] Performing checksum verification of executable files
+[2023-10-31 10:41:31] Verification complete
+[2023-10-31 10:42:50] Shutdown
+
+
+[2023-10-31 10:42:55] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:42:55] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:42:55] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:42:55] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:42:55] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:42:55] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:42:55] Checking for update on startup
+[2023-10-31 10:42:55] 正在检查可用更新...
+[2023-10-31 10:42:55] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:42:55] Manifest download: send request
+[2023-10-31 10:42:55] Manifest download: waiting for download to finish
+
+
+[2023-10-31 10:43:35] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:43:35] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:43:35] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:43:35] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:43:35] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:43:35] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:43:35] Checking for update on startup
+[2023-10-31 10:43:35] 正在检查可用更新...
+[2023-10-31 10:43:35] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:43:35] Manifest download: send request
+[2023-10-31 10:43:35] Manifest download: waiting for download to finish
+[2023-10-31 10:44:35] Manifest download: finished
+[2023-10-31 10:44:35] Download failed: http error 200 (client-update.akamai.steamstatic.com/steam_cmd_win32)
+[2023-10-31 10:44:35] Downloading manifest: https://cdn.cloudflare.steamstatic.com/client/steam_cmd_win32
+[2023-10-31 10:44:35] Manifest download: send request
+[2023-10-31 10:44:36] Manifest download: waiting for download to finish
+[2023-10-31 10:44:36] Manifest download: finished
+[2023-10-31 10:44:36] Download skipped: /client/steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:44:36] Nothing to do
+[2023-10-31 10:44:36] 正在验证安装...
+[2023-10-31 10:44:36] Performing checksum verification of executable files
+[2023-10-31 10:44:36] Verification complete
+[2023-10-31 10:46:58] Shutdown
+
+
+[2023-10-31 10:48:43] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:48:43] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:48:43] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:48:43] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:48:43] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:48:43] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:48:43] Checking for update on startup
+[2023-10-31 10:48:43] 正在检查可用更新...
+[2023-10-31 10:48:43] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:48:43] Manifest download: send request
+[2023-10-31 10:48:43] Manifest download: waiting for download to finish
+
+
+[2023-10-31 10:49:45] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:49:45] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:49:45] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:49:45] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:49:45] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:49:45] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:49:45] Checking for update on startup
+[2023-10-31 10:49:45] 正在检查可用更新...
+[2023-10-31 10:49:45] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:49:45] Manifest download: send request
+[2023-10-31 10:49:45] Manifest download: waiting for download to finish
+[2023-10-31 10:49:46] Manifest download: finished
+[2023-10-31 10:49:46] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:49:46] Nothing to do
+[2023-10-31 10:49:46] 正在验证安装...
+[2023-10-31 10:49:46] Performing checksum verification of executable files
+[2023-10-31 10:49:46] Verification complete
+[2023-10-31 10:50:32] Shutdown
+
+
+[2023-10-31 10:51:28] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:51:28] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:51:28] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:51:28] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:51:28] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:51:28] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:51:28] Checking for update on startup
+[2023-10-31 10:51:28] 正在检查可用更新...
+[2023-10-31 10:51:28] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:51:28] Manifest download: send request
+[2023-10-31 10:51:28] Manifest download: waiting for download to finish
+[2023-10-31 10:51:29] Manifest download: finished
+[2023-10-31 10:51:29] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:51:29] Nothing to do
+[2023-10-31 10:51:29] 正在验证安装...
+[2023-10-31 10:51:29] Performing checksum verification of executable files
+[2023-10-31 10:51:29] Verification complete
+[2023-10-31 10:51:37] Shutdown
+
+
+[2023-10-31 10:52:44] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:52:44] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:52:44] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:52:44] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:52:44] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:52:44] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:52:44] Checking for update on startup
+[2023-10-31 10:52:44] 正在检查可用更新...
+[2023-10-31 10:52:44] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:52:44] Manifest download: send request
+[2023-10-31 10:52:44] Manifest download: waiting for download to finish
+[2023-10-31 10:52:45] Manifest download: finished
+[2023-10-31 10:52:45] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:52:45] Nothing to do
+[2023-10-31 10:52:45] 正在验证安装...
+[2023-10-31 10:52:45] Performing checksum verification of executable files
+[2023-10-31 10:52:45] Verification complete
+[2023-10-31 10:53:28] Shutdown
+
+
+[2023-10-31 10:57:42] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 10:57:42] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 10:57:42] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 10:57:42] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:57:42] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 10:57:42] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 10:57:42] Checking for update on startup
+[2023-10-31 10:57:42] 正在检查可用更新...
+[2023-10-31 10:57:42] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 10:57:42] Manifest download: send request
+[2023-10-31 10:57:42] Manifest download: waiting for download to finish
+[2023-10-31 10:57:43] Manifest download: finished
+[2023-10-31 10:57:43] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 10:57:43] Nothing to do
+[2023-10-31 10:57:43] 正在验证安装...
+[2023-10-31 10:57:43] Performing checksum verification of executable files
+[2023-10-31 10:57:43] Verification complete
+[2023-10-31 10:57:50] Shutdown
+
+
+[2023-10-31 11:05:37] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:05:37] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:05:37] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:05:37] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:05:37] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:05:37] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:05:37] Checking for update on startup
+[2023-10-31 11:05:37] 正在检查可用更新...
+[2023-10-31 11:05:37] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:05:37] Manifest download: send request
+[2023-10-31 11:05:37] Manifest download: waiting for download to finish
+[2023-10-31 11:05:38] Manifest download: finished
+[2023-10-31 11:05:38] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:05:38] Nothing to do
+[2023-10-31 11:05:38] 正在验证安装...
+[2023-10-31 11:05:38] Performing checksum verification of executable files
+[2023-10-31 11:05:38] Verification complete
+[2023-10-31 11:05:46] Shutdown
+
+
+[2023-10-31 11:10:08] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:10:08] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:10:08] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:10:08] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:10:08] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:10:08] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:10:08] Checking for update on startup
+[2023-10-31 11:10:08] 正在检查可用更新...
+[2023-10-31 11:10:08] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:10:08] Manifest download: send request
+[2023-10-31 11:10:09] Manifest download: waiting for download to finish
+[2023-10-31 11:10:09] Manifest download: finished
+[2023-10-31 11:10:09] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:10:09] Nothing to do
+[2023-10-31 11:10:09] 正在验证安装...
+[2023-10-31 11:10:09] Performing checksum verification of executable files
+[2023-10-31 11:10:09] Verification complete
+[2023-10-31 11:10:53] Shutdown
+
+
+[2023-10-31 11:20:19] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:20:19] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:20:19] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:20:19] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:20:19] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:20:19] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:20:19] Checking for update on startup
+[2023-10-31 11:20:19] 正在检查可用更新...
+[2023-10-31 11:20:19] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:20:19] Manifest download: send request
+[2023-10-31 11:20:19] Manifest download: waiting for download to finish
+[2023-10-31 11:20:20] Manifest download: finished
+[2023-10-31 11:20:20] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:20:20] Nothing to do
+[2023-10-31 11:20:20] 正在验证安装...
+[2023-10-31 11:20:20] Performing checksum verification of executable files
+[2023-10-31 11:20:20] Verification complete
+[2023-10-31 11:20:27] Shutdown
+
+
+[2023-10-31 11:22:31] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:22:31] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:22:31] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:22:31] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:22:31] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:22:31] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:22:31] Checking for update on startup
+[2023-10-31 11:22:31] 正在检查可用更新...
+[2023-10-31 11:22:31] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:22:31] Manifest download: send request
+[2023-10-31 11:22:32] Manifest download: waiting for download to finish
+[2023-10-31 11:22:32] Manifest download: finished
+[2023-10-31 11:22:32] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:22:32] Nothing to do
+[2023-10-31 11:22:32] 正在验证安装...
+[2023-10-31 11:22:32] Performing checksum verification of executable files
+[2023-10-31 11:22:32] Verification complete
+[2023-10-31 11:22:40] Shutdown
+
+
+[2023-10-31 11:29:36] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:29:36] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:29:36] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:29:36] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:29:36] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:29:36] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:29:36] Checking for update on startup
+[2023-10-31 11:29:36] 正在检查可用更新...
+[2023-10-31 11:29:36] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:29:36] Manifest download: send request
+[2023-10-31 11:29:36] Manifest download: waiting for download to finish
+[2023-10-31 11:29:36] Manifest download: finished
+[2023-10-31 11:29:36] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:29:36] Nothing to do
+[2023-10-31 11:29:36] 正在验证安装...
+[2023-10-31 11:29:36] Performing checksum verification of executable files
+[2023-10-31 11:29:37] Verification complete
+[2023-10-31 11:29:45] Shutdown
+
+
+[2023-10-31 11:34:21] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:34:21] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:34:21] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:34:21] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:34:21] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:34:21] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:34:21] Checking for update on startup
+[2023-10-31 11:34:21] 正在检查可用更新...
+[2023-10-31 11:34:21] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:34:21] Manifest download: send request
+[2023-10-31 11:34:21] Manifest download: waiting for download to finish
+[2023-10-31 11:34:21] Manifest download: finished
+[2023-10-31 11:34:21] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:34:21] Nothing to do
+[2023-10-31 11:34:21] 正在验证安装...
+[2023-10-31 11:34:21] Performing checksum verification of executable files
+[2023-10-31 11:34:22] Verification complete
+[2023-10-31 11:34:29] Shutdown
+
+
+[2023-10-31 11:41:09] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:41:09] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:41:10] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:41:10] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:41:10] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:41:10] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:41:10] Checking for update on startup
+[2023-10-31 11:41:10] 正在检查可用更新...
+[2023-10-31 11:41:10] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:41:10] Manifest download: send request
+[2023-10-31 11:41:10] Manifest download: waiting for download to finish
+[2023-10-31 11:41:12] Manifest download: finished
+[2023-10-31 11:41:12] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:41:12] Nothing to do
+[2023-10-31 11:41:12] 正在验证安装...
+[2023-10-31 11:41:12] Performing checksum verification of executable files
+[2023-10-31 11:41:12] Verification complete
+[2023-10-31 11:43:11] Shutdown
+
+
+[2023-10-31 11:49:21] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:49:21] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:49:21] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:49:21] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:49:21] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:49:21] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:49:21] Checking for update on startup
+[2023-10-31 11:49:21] 正在检查可用更新...
+[2023-10-31 11:49:21] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:49:21] Manifest download: send request
+[2023-10-31 11:49:22] Manifest download: waiting for download to finish
+[2023-10-31 11:49:23] Manifest download: finished
+[2023-10-31 11:49:23] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:49:23] Nothing to do
+[2023-10-31 11:49:23] 正在验证安装...
+[2023-10-31 11:49:23] Performing checksum verification of executable files
+[2023-10-31 11:49:23] Verification complete
+[2023-10-31 11:49:33] Shutdown
+
+
+[2023-10-31 11:50:46] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:50:46] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:50:46] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:50:46] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:50:46] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:50:46] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:50:46] Checking for update on startup
+[2023-10-31 11:50:46] 正在检查可用更新...
+[2023-10-31 11:50:46] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:50:46] Manifest download: send request
+[2023-10-31 11:50:47] Manifest download: waiting for download to finish
+[2023-10-31 11:50:47] Manifest download: finished
+[2023-10-31 11:50:47] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:50:47] Nothing to do
+[2023-10-31 11:50:47] 正在验证安装...
+[2023-10-31 11:50:47] Performing checksum verification of executable files
+[2023-10-31 11:50:48] Verification complete
+[2023-10-31 11:50:56] Shutdown
+
+
+[2023-10-31 11:52:38] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:52:38] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:52:38] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:52:38] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:52:38] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:52:38] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:52:38] Checking for update on startup
+[2023-10-31 11:52:38] 正在检查可用更新...
+[2023-10-31 11:52:38] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:52:39] Manifest download: send request
+[2023-10-31 11:52:39] Manifest download: waiting for download to finish
+[2023-10-31 11:52:40] Manifest download: finished
+[2023-10-31 11:52:40] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:52:40] Nothing to do
+[2023-10-31 11:52:40] 正在验证安装...
+[2023-10-31 11:52:40] Performing checksum verification of executable files
+[2023-10-31 11:52:40] Verification complete
+[2023-10-31 11:52:49] Shutdown
+
+
+[2023-10-31 11:53:47] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 11:53:47] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 11:53:47] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 11:53:47] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:53:47] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 11:53:47] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 11:53:47] Checking for update on startup
+[2023-10-31 11:53:47] 正在检查可用更新...
+[2023-10-31 11:53:47] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 11:53:47] Manifest download: send request
+[2023-10-31 11:53:47] Manifest download: waiting for download to finish
+[2023-10-31 11:53:48] Manifest download: finished
+[2023-10-31 11:53:48] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 11:53:48] Nothing to do
+[2023-10-31 11:53:48] 正在验证安装...
+[2023-10-31 11:53:48] Performing checksum verification of executable files
+[2023-10-31 11:53:48] Verification complete
+[2023-10-31 11:53:57] Shutdown
+
+
+[2023-10-31 12:04:46] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 12:04:46] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 12:04:46] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 12:04:46] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:04:46] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:04:46] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 12:04:46] Checking for update on startup
+[2023-10-31 12:04:46] 正在检查可用更新...
+[2023-10-31 12:04:46] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 12:04:46] Manifest download: send request
+[2023-10-31 12:04:46] Manifest download: waiting for download to finish
+[2023-10-31 12:04:47] Manifest download: finished
+[2023-10-31 12:04:47] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 12:04:47] Nothing to do
+[2023-10-31 12:04:47] 正在验证安装...
+[2023-10-31 12:04:47] Performing checksum verification of executable files
+[2023-10-31 12:04:47] Verification complete
+[2023-10-31 12:04:57] Shutdown
+
+
+[2023-10-31 12:05:12] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 12:05:12] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 12:05:12] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 12:05:12] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:05:12] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:05:12] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 12:05:12] Checking for update on startup
+[2023-10-31 12:05:12] 正在检查可用更新...
+[2023-10-31 12:05:12] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 12:05:13] Manifest download: send request
+[2023-10-31 12:05:13] Manifest download: waiting for download to finish
+[2023-10-31 12:05:14] Manifest download: finished
+[2023-10-31 12:05:14] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 12:05:14] Nothing to do
+[2023-10-31 12:05:14] 正在验证安装...
+[2023-10-31 12:05:14] Performing checksum verification of executable files
+[2023-10-31 12:05:14] Verification complete
+[2023-10-31 12:05:30] Shutdown
+
+
+[2023-10-31 12:07:31] Startup - updater built Oct 25 2023 11:42:30
+[2023-10-31 12:07:31] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-10-31 12:07:32] Using the following download hosts for Public, Realm steamglobal
+[2023-10-31 12:07:32] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:07:32] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-10-31 12:07:32] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-10-31 12:07:32] Checking for update on startup
+[2023-10-31 12:07:32] 正在检查可用更新...
+[2023-10-31 12:07:32] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-10-31 12:07:32] Manifest download: send request
+[2023-10-31 12:07:32] Manifest download: waiting for download to finish
+[2023-10-31 12:07:33] Manifest download: finished
+[2023-10-31 12:07:33] Download skipped: /steam_cmd_win32 version 1698262904, installed version 1698262904, existing pending version 0
+[2023-10-31 12:07:33] Nothing to do
+[2023-10-31 12:07:33] 正在验证安装...
+[2023-10-31 12:07:33] Performing checksum verification of executable files
+[2023-10-31 12:07:33] Verification complete
+[2023-10-31 12:08:03] Shutdown
+
+
+[2023-11-01 09:07:57] Startup - updater built Oct 25 2023 11:42:30
+[2023-11-01 09:07:57] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 09:07:58] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 09:07:58] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:07:58] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:07:58] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 09:07:58] Checking for update on startup
+[2023-11-01 09:07:58] 正在检查可用更新...
+[2023-11-01 09:07:58] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 09:07:58] Manifest download: send request
+[2023-11-01 09:07:58] Manifest download: waiting for download to finish
+[2023-11-01 09:07:59] Manifest download: finished
+[2023-11-01 09:07:59] Downloaded new manifest: /steam_cmd_win32 version 1698778122, installed version 1698262904, existing pending version 0
+[2023-11-01 09:07:59] Package file steamcmd_public_all.zip.f309916e0032b82d26e4b6174e5114dea51ece35 missing or incorrect size
+[2023-11-01 09:07:59] Package file steamcmd_bins_win32.zip.vz.33ae974ecf3130477f50cba78de64ffd69444aea_6546338 missing or incorrect size
+[2023-11-01 09:07:59] Package file steamcmd_steamservice_win32.zip.vz.b93f8a55ba8a7524f52ffd8fc2e25e633251216c_1693014 missing or incorrect size
+[2023-11-01 09:07:59] Package file steamcmd_steamerrorreporter_win32.zip.2f07678347e18deee42b5fe20a3b7cd57fbb0ec1 missing or incorrect size
+[2023-11-01 09:07:59] Package file steamcmd_siteserverui_win32.zip.vz.dd514fd3953ee64e9f9e763485292792691971ca_36267915 missing or incorrect size
+[2023-11-01 09:07:59] Package file steamcmd_win32.zip.vz.54a1ce5f05ef8269fac0225bdf3ea1566462b5f1_1740209 missing or incorrect size
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_public_all.zip.f309916e0032b82d26e4b6174e5114dea51ece35
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_bins_win32.zip.vz.33ae974ecf3130477f50cba78de64ffd69444aea_6546338
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_steamservice_win32.zip.vz.b93f8a55ba8a7524f52ffd8fc2e25e633251216c_1693014
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_steamerrorreporter_win32.zip.2f07678347e18deee42b5fe20a3b7cd57fbb0ec1
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_siteserverui_win32.zip.vz.dd514fd3953ee64e9f9e763485292792691971ca_36267915
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] Add pending download: https://client-update.akamai.steamstatic.com/steamcmd_win32.zip.vz.54a1ce5f05ef8269fac0225bdf3ea1566462b5f1_1740209
+[2023-11-01 09:07:59] Manifest download: send request
+[2023-11-01 09:07:59] 正在下载更新 (已下载 0，共 45,394 KB)...
+[2023-11-01 09:07:59] 正在下载更新 (已下载 50，共 45,394 KB)...
+[2023-11-01 09:07:59] 正在下载更新 (已下载 230，共 45,394 KB)...
+[2023-11-01 09:08:00] 正在下载更新 (已下载 304，共 45,394 KB)...
+[2023-11-01 09:08:00] 正在下载更新 (已下载 3,905，共 45,394 KB)...
+[2023-11-01 09:08:00] 正在下载更新 (已下载 14,133，共 45,394 KB)...
+[2023-11-01 09:08:00] 正在下载更新 (已下载 23,956，共 45,394 KB)...
+[2023-11-01 09:08:01] 正在下载更新 (已下载 27,197，共 45,394 KB)...
+[2023-11-01 09:08:01] 正在下载更新 (已下载 30,195，共 45,394 KB)...
+[2023-11-01 09:08:01] 正在下载更新 (已下载 33,273，共 45,394 KB)...
+[2023-11-01 09:08:01] 正在下载更新 (已下载 36,944，共 45,394 KB)...
+[2023-11-01 09:08:02] 正在下载更新 (已下载 39,966，共 45,394 KB)...
+[2023-11-01 09:08:02] 正在下载更新 (已下载 43,358，共 45,394 KB)...
+[2023-11-01 09:08:02] 正在下载更新 (已下载 45,394，共 45,394 KB)...
+[2023-11-01 09:08:02] 下载完成。
+[2023-11-01 09:08:02] Saving metrics to disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-11-01 09:08:02] uninstalled manifest found in D:\SteamMOD\ModPackage\package\steam_cmd_win32 (1).
+[2023-11-01 09:08:02] Found pending update
+[2023-11-01 09:08:02] 正在安装更新...
+[2023-11-01 09:08:02] 正在展开安装包...
+[2023-11-01 09:08:04] 正在安装更新...
+[2023-11-01 09:08:04] Committing NTFS transaction (0 non-transactional backup files)
+[2023-11-01 09:08:04] 正在清理...
+[2023-11-01 09:08:04] 更新完成，正在启动 Steamcmd...
+[2023-11-01 09:08:04] Shutdown
+
+
+[2023-11-01 09:08:04] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 09:08:04] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 09:08:05] Loading cached metrics from disk (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-11-01 09:08:05] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 09:08:05] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:08:05] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:08:05] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 09:08:05] Checking for update on startup
+[2023-11-01 09:08:05] 正在检查可用更新...
+[2023-11-01 09:08:05] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 09:08:05] Manifest download: send request
+[2023-11-01 09:08:05] Manifest download: waiting for download to finish
+[2023-11-01 09:08:05] Manifest download: finished
+[2023-11-01 09:08:05] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 09:08:05] Nothing to do
+[2023-11-01 09:08:05] 正在验证安装...
+[2023-11-01 09:08:05] Performing checksum verification of executable files
+[2023-11-01 09:08:08] Verification complete
+[2023-11-01 09:08:14] Clearing cached metrics (D:\SteamMOD\ModPackage\package\steam_cmd_metrics.bin)
+[2023-11-01 09:08:21] Shutdown
+
+
+[2023-11-01 09:09:22] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 09:09:22] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 09:09:22] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 09:09:22] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:09:22] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 09:09:22] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 09:09:22] Checking for update on startup
+[2023-11-01 09:09:22] 正在检查可用更新...
+[2023-11-01 09:09:22] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 09:09:22] Manifest download: send request
+[2023-11-01 09:09:22] Manifest download: waiting for download to finish
+[2023-11-01 09:09:23] Manifest download: finished
+[2023-11-01 09:09:23] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 09:09:23] Nothing to do
+[2023-11-01 09:09:23] 正在验证安装...
+[2023-11-01 09:09:23] Performing checksum verification of executable files
+[2023-11-01 09:09:23] Verification complete
+[2023-11-01 09:10:46] Shutdown
+
+
+[2023-11-01 10:10:54] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 10:10:54] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 10:10:54] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 10:10:54] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:10:54] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:10:54] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 10:10:54] Checking for update on startup
+[2023-11-01 10:10:54] 正在检查可用更新...
+[2023-11-01 10:10:54] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 10:10:54] Manifest download: send request
+[2023-11-01 10:10:55] Manifest download: waiting for download to finish
+[2023-11-01 10:10:56] Manifest download: finished
+[2023-11-01 10:10:56] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 10:10:56] Nothing to do
+[2023-11-01 10:10:56] 正在验证安装...
+[2023-11-01 10:10:56] Performing checksum verification of executable files
+[2023-11-01 10:10:56] Verification complete
+[2023-11-01 10:11:38] Shutdown
+
+
+[2023-11-01 10:11:56] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 10:11:56] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 10:11:56] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 10:11:56] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:11:56] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:11:56] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 10:11:56] Checking for update on startup
+[2023-11-01 10:11:56] 正在检查可用更新...
+[2023-11-01 10:11:56] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 10:11:56] Manifest download: send request
+[2023-11-01 10:11:56] Manifest download: waiting for download to finish
+[2023-11-01 10:11:58] Manifest download: finished
+[2023-11-01 10:11:58] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 10:11:58] Nothing to do
+[2023-11-01 10:11:58] 正在验证安装...
+[2023-11-01 10:11:58] Performing checksum verification of executable files
+[2023-11-01 10:11:58] Verification complete
+[2023-11-01 10:12:57] Shutdown
+
+
+[2023-11-01 10:20:13] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 10:20:13] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 10:20:13] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 10:20:13] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:20:13] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 10:20:13] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 10:20:13] Checking for update on startup
+[2023-11-01 10:20:13] 正在检查可用更新...
+[2023-11-01 10:20:13] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 10:20:13] Manifest download: send request
+[2023-11-01 10:20:13] Manifest download: waiting for download to finish
+[2023-11-01 10:20:15] Manifest download: finished
+[2023-11-01 10:20:15] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 10:20:15] Nothing to do
+[2023-11-01 10:20:15] 正在验证安装...
+[2023-11-01 10:20:15] Performing checksum verification of executable files
+[2023-11-01 10:20:15] Verification complete
+[2023-11-01 10:20:35] Shutdown
+
+
+[2023-11-01 11:52:16] Startup - updater built Oct 25 2023 18:53:46
+[2023-11-01 11:52:16] Startup - Steam Client launched with: D:\SteamMOD\ModPackage\steamcmd.exe  +login xiaozhuzhaoge 66329892zgg +workshop_build_item D:\SteamMOD\Sample\mod.vdf +quit
+[2023-11-01 11:52:16] Using the following download hosts for Public, Realm steamglobal
+[2023-11-01 11:52:16] 1. https://client-update.akamai.steamstatic.com, /, Realm 'steamglobal', weight was 1000, source = 'update_hosts_cached.vdf'
+[2023-11-01 11:52:16] 2. https://cdn.cloudflare.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'update_hosts_cached.vdf'
+[2023-11-01 11:52:16] 3. https://cdn.steamstatic.com, /client/, Realm 'steamglobal', weight was 1, source = 'baked in'
+[2023-11-01 11:52:16] Checking for update on startup
+[2023-11-01 11:52:16] 正在检查可用更新...
+[2023-11-01 11:52:16] Downloading manifest: https://client-update.akamai.steamstatic.com/steam_cmd_win32
+[2023-11-01 11:52:16] Manifest download: send request
+[2023-11-01 11:52:17] Manifest download: waiting for download to finish
+[2023-11-01 11:52:19] Manifest download: finished
+[2023-11-01 11:52:19] Download skipped: /steam_cmd_win32 version 1698778122, installed version 1698778122, existing pending version 0
+[2023-11-01 11:52:19] Nothing to do
+[2023-11-01 11:52:19] 正在验证安装...
+[2023-11-01 11:52:19] Performing checksum verification of executable files
+[2023-11-01 11:52:22] Verification complete
+[2023-11-01 11:52:59] Shutdown
